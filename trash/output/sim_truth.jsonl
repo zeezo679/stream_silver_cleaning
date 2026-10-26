@@ -1,0 +1,37 @@
+{"anomaly_id": "A-0001", "event_type": "theft", "entity_id": "M-000322", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.33}
+{"anomaly_id": "A-0002", "event_type": "theft", "entity_id": "M-000285", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.34}
+{"anomaly_id": "A-0003", "event_type": "theft", "entity_id": "M-000383", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.35}
+{"anomaly_id": "A-0004", "event_type": "theft", "entity_id": "M-000384", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.23}
+{"anomaly_id": "A-0005", "event_type": "theft", "entity_id": "M-000272", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.36}
+{"anomaly_id": "A-0006", "event_type": "theft", "entity_id": "M-000306", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.34}
+{"anomaly_id": "A-0007", "event_type": "theft", "entity_id": "M-000304", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.21}
+{"anomaly_id": "A-0008", "event_type": "theft", "entity_id": "M-000204", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.27}
+{"anomaly_id": "A-0009", "event_type": "theft", "entity_id": "M-000212", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.29}
+{"anomaly_id": "A-0010", "event_type": "theft", "entity_id": "M-000388", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.27}
+{"anomaly_id": "A-0011", "event_type": "theft", "entity_id": "M-000352", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.22}
+{"anomaly_id": "A-0012", "event_type": "theft", "entity_id": "M-000254", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.24}
+{"anomaly_id": "A-0013", "event_type": "theft", "entity_id": "M-000289", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.2}
+{"anomaly_id": "A-0014", "event_type": "theft", "entity_id": "M-000248", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.22}
+{"anomaly_id": "A-0015", "event_type": "theft", "entity_id": "M-000387", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.25}
+{"anomaly_id": "A-0016", "event_type": "theft", "entity_id": "M-000310", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.36}
+{"anomaly_id": "A-0017", "event_type": "theft", "entity_id": "M-000327", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.31}
+{"anomaly_id": "A-0018", "event_type": "theft", "entity_id": "M-000273", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.28}
+{"anomaly_id": "A-0019", "event_type": "theft", "entity_id": "M-000203", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.33}
+{"anomaly_id": "A-0020", "event_type": "theft", "entity_id": "M-000217", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.31}
+{"anomaly_id": "A-0021", "event_type": "theft", "entity_id": "M-000274", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.23}
+{"anomaly_id": "A-0022", "event_type": "theft", "entity_id": "M-000364", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.24}
+{"anomaly_id": "A-0023", "event_type": "theft", "entity_id": "M-000382", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.24}
+{"anomaly_id": "A-0024", "event_type": "theft", "entity_id": "M-000376", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.32}
+{"anomaly_id": "A-0025", "event_type": "theft", "entity_id": "M-000394", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.29}
+{"anomaly_id": "A-0026", "event_type": "theft", "entity_id": "M-000299", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.28}
+{"anomaly_id": "A-0027", "event_type": "theft", "entity_id": "M-000283", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.31}
+{"anomaly_id": "A-0028", "event_type": "theft", "entity_id": "M-000263", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.39}
+{"anomaly_id": "A-0029", "event_type": "theft", "entity_id": "M-000201", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.26}
+{"anomaly_id": "A-0030", "event_type": "theft", "entity_id": "M-000241", "transformer_id": "T-0002", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-04T00:00:00Z", "recorded_share": 0.3}
+{"anomaly_id": "A-0031", "event_type": "overload", "entity_id": "T-0003", "transformer_id": "T-0003", "start_ts": "2026-08-01T18:00:00Z", "end_ts": "2026-08-01T21:00:00Z", "factor": 1.45}
+{"anomaly_id": "A-0032", "event_type": "line_drop", "entity_id": "T-0004", "transformer_id": "T-0004", "start_ts": "2026-08-01T06:00:00Z", "end_ts": "2026-08-01T10:00:00Z", "voltage_factor": 0.88}
+{"anomaly_id": "A-0033", "event_type": "silent_meter", "entity_id": "M-000495", "transformer_id": "T-0003", "start_ts": "2026-08-01T12:00:00Z", "end_ts": "2026-08-01T13:00:00Z"}
+{"anomaly_id": "A-0034", "event_type": "silent_meter", "entity_id": "M-000165", "transformer_id": "T-0001", "start_ts": "2026-08-01T06:45:00Z", "end_ts": "2026-08-01T08:45:00Z"}
+{"anomaly_id": "A-0035", "event_type": "silent_meter", "entity_id": "M-000255", "transformer_id": "T-0002", "start_ts": "2026-08-01T19:00:00Z", "end_ts": "2026-08-01T22:00:00Z"}
+{"anomaly_id": "A-0036", "event_type": "silent_meter", "entity_id": "M-000587", "transformer_id": "T-0003", "start_ts": "2026-08-01T14:45:00Z", "end_ts": "2026-08-01T16:45:00Z"}
+{"anomaly_id": "A-0037", "event_type": "silent_meter", "entity_id": "M-000725", "transformer_id": "T-0004", "start_ts": "2026-08-01T00:00:00Z", "end_ts": "2026-08-01T03:00:00Z"}

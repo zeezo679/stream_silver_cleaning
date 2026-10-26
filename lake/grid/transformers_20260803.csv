@@ -1,0 +1,6 @@
+transformer_id,feeder_id,substation_id,district,governorate,capacity_kw,lat,lon
+T-0001,F-01,S-01,Dokki,Giza,830,30.044975,31.222315
+T-0002,F-02,S-01,Dokki,Giza,870,30.036933,31.217167
+T-0003,F-04,S-01,Dokki,Giza,830,30.047006,31.217766
+T-0004,F-06,S-02,Nasr City,Cairo,810,30.061337,31.321275
+T-0005,F-08,S-02,Nasr City,Cairo,820,30.046860,31.329009

@@ -1,0 +1,1001 @@
+meter_id,transformer_id,tariff,customer_name,address,lat,lon
+M-000001,T-0001,commercial,Omar Galal,"18 Abbas El Akkad St, Dokki",30.044387,31.221247
+M-000002,T-0001,residential,Mahmoud Zaki,"31 Nile Corniche, Dokki",30.043571,31.221142
+M-000003,T-0001,residential,Ahmed Saad,"9 El Merghany St, Dokki",30.043552,31.222599
+M-000004,T-0001,residential,Hassan Ali,"22 Abbas El Akkad St, Dokki",30.046528,31.221733
+M-000005,T-0001,residential,Amr Fathy,"69 Tahrir St, Dokki",30.044316,31.223471
+M-000006,T-0001,residential,Mohamed Mounir,"1 Road 9, Dokki",30.045354,31.223204
+M-000007,T-0001,residential,Farida Mounir,"35 El Nozha St, Dokki",30.044390,31.220922
+M-000008,T-0001,commercial,Mostafa Samir,"38 Nile Corniche, Dokki",30.045233,31.221883
+M-000009,T-0001,residential,Karim Adel,"116 Nile Corniche, Dokki",30.046560,31.222788
+M-000010,T-0001,residential,Hassan Mansour,"116 Road 233, Dokki",30.043615,31.222829
+M-000011,T-0001,residential,Amr Nabil,"101 Road 233, Dokki",30.046198,31.221183
+M-000012,T-0001,residential,Farida Mounir,"41 Gameat El Dowal St, Dokki",30.044972,31.221077
+M-000013,T-0001,commercial,Karim Fathy,"63 Khalafawy Sq, Dokki",30.046746,31.222210
+M-000014,T-0001,residential,Nour Samir,"61 Abbas El Akkad St, Dokki",30.043307,31.221930
+M-000015,T-0001,residential,Farida Kamal,"103 Shubra St, Dokki",30.044124,31.220767
+M-000016,T-0001,residential,Ahmed Ibrahim,"89 Shubra St, Dokki",30.044718,31.223183
+M-000017,T-0001,residential,Mohamed Samir,"108 Abbas El Akkad St, Dokki",30.046138,31.221855
+M-000018,T-0001,residential,Karim Ezzat,"66 Gameat El Dowal St, Dokki",30.044723,31.222639
+M-000019,T-0001,residential,Dina Ibrahim,"110 Makram Ebeid St, Dokki",30.044924,31.221501
+M-000020,T-0001,residential,Laila Shawky,"89 El Merghany St, Dokki",30.043754,31.223297
+M-000021,T-0001,commercial,Karim Kamal,"88 Road 233, Dokki",30.043537,31.221636
+M-000022,T-0001,residential,Hassan Saad,"79 Shubra St, Dokki",30.044641,31.220307
+M-000023,T-0001,residential,Dina Hassan,"40 Nile Corniche, Dokki",30.043949,31.222248
+M-000024,T-0001,residential,Mohamed Nabil,"73 Road 9, Dokki",30.045889,31.221618
+M-000025,T-0001,residential,Mahmoud Ali,"43 Road 9, Dokki",30.043897,31.223007
+M-000026,T-0001,residential,Tarek Samir,"78 Khalafawy Sq, Dokki",30.044503,31.221593
+M-000027,T-0001,residential,Mahmoud Sabry,"31 Gameat El Dowal St, Dokki",30.044619,31.222941
+M-000028,T-0001,commercial,Dina Hamdy,"96 Nile Corniche, Dokki",30.043934,31.223097
+M-000029,T-0001,residential,Nour Galal,"68 Khalafawy Sq, Dokki",30.044178,31.222679
+M-000030,T-0001,residential,Tarek Kamal,"85 Shubra St, Dokki",30.046011,31.223524
+M-000031,T-0001,residential,Ahmed Hamdy,"27 Khalafawy Sq, Dokki",30.045973,31.223064
+M-000032,T-0001,residential,Mohamed Zaki,"95 Gameat El Dowal St, Dokki",30.044161,31.220668
+M-000033,T-0001,residential,Aya Fathy,"96 Tahrir St, Dokki",30.044132,31.220873
+M-000034,T-0001,residential,Salma Adel,"18 El Nozha St, Dokki",30.044452,31.221323
+M-000035,T-0001,residential,Tarek Mansour,"42 Tahrir St, Dokki",30.046604,31.222550
+M-000036,T-0001,commercial,Omar Lotfy,"81 El Merghany St, Dokki",30.044228,31.223968
+M-000037,T-0001,residential,Tarek Fouad,"104 Road 9, Dokki",30.045336,31.223540
+M-000038,T-0001,residential,Rana Fathy,"88 Makram Ebeid St, Dokki",30.045145,31.221216
+M-000039,T-0001,residential,Amr Mounir,"57 Nile Corniche, Dokki",30.045927,31.220996
+M-000040,T-0001,residential,Tarek Ibrahim,"36 Shubra St, Dokki",30.044989,31.223092
+M-000041,T-0001,residential,Youssef Mounir,"109 El Merghany St, Dokki",30.044578,31.221507
+M-000042,T-0001,commercial,Aya Sabry,"105 Nile Corniche, Dokki",30.045081,31.222444
+M-000043,T-0001,residential,Youssef Sabry,"107 Mesaha Sq, Dokki",30.044724,31.224136
+M-000044,T-0001,residential,Tarek Lotfy,"37 El Nozha St, Dokki",30.045920,31.223612
+M-000045,T-0001,residential,Dina Fathy,"52 Mesaha Sq, Dokki",30.044659,31.224022
+M-000046,T-0001,residential,Laila Rashad,"30 Abbas El Akkad St, Dokki",30.044251,31.220680
+M-000047,T-0001,residential,Yasmin Lotfy,"114 Abbas El Akkad St, Dokki",30.046006,31.221563
+M-000048,T-0001,residential,Mostafa Hamdy,"104 El Merghany St, Dokki",30.045374,31.223813
+M-000049,T-0001,residential,Omar Nabil,"21 El Nozha St, Dokki",30.044325,31.222112
+M-000050,T-0001,commercial,Mahmoud Saad,"30 Khalafawy Sq, Dokki",30.044792,31.221644
+M-000051,T-0001,residential,Farida Adel,"66 Road 233, Dokki",30.046383,31.221820
+M-000052,T-0001,residential,Tarek Fouad,"50 Gameat El Dowal St, Dokki",30.044023,31.221405
+M-000053,T-0001,residential,Yasmin Shawky,"55 Road 9, Dokki",30.044932,31.223877
+M-000054,T-0001,residential,Nour Sabry,"44 Mesaha Sq, Dokki",30.043865,31.221026
+M-000055,T-0001,residential,Amr Lotfy,"81 Tahrir St, Dokki",30.044360,31.223811
+M-000056,T-0001,residential,Laila Zaki,"107 Mesaha Sq, Dokki",30.046299,31.222084
+M-000057,T-0001,residential,Ahmed Nabil,"110 Road 233, Dokki",30.043888,31.223231
+M-000058,T-0001,residential,Salma Fouad,"55 Road 9, Dokki",30.044583,31.221262
+M-000059,T-0001,residential,Youssef Adel,"99 Nile Corniche, Dokki",30.045288,31.222368
+M-000060,T-0001,residential,Mohamed Fathy,"83 Mesaha Sq, Dokki",30.044012,31.223122
+M-000061,T-0001,residential,Aya Hassan,"24 Makram Ebeid St, Dokki",30.045565,31.221635
+M-000062,T-0001,residential,Rana Adel,"95 Gameat El Dowal St, Dokki",30.044090,31.221467
+M-000063,T-0001,residential,Rana Nabil,"42 Tahrir St, Dokki",30.043414,31.222977
+M-000064,T-0001,residential,Rana Shawky,"75 Road 233, Dokki",30.045776,31.221921
+M-000065,T-0001,residential,Dina Ali,"86 Abbas El Akkad St, Dokki",30.045239,31.221916
+M-000066,T-0001,residential,Aya Nabil,"113 El Merghany St, Dokki",30.044556,31.223306
+M-000067,T-0001,residential,Tarek Hassan,"113 Gameat El Dowal St, Dokki",30.044038,31.222004
+M-000068,T-0001,residential,Farida Rashad,"96 Abbas El Akkad St, Dokki",30.043513,31.222423
+M-000069,T-0001,residential,Farida Shawky,"61 Road 9, Dokki",30.044069,31.221170
+M-000070,T-0001,commercial,Mostafa Adel,"48 Road 233, Dokki",30.044171,31.223904
+M-000071,T-0001,residential,Hassan Ibrahim,"53 Khalafawy Sq, Dokki",30.045028,31.224008
+M-000072,T-0001,residential,Laila Mounir,"114 Gameat El Dowal St, Dokki",30.045954,31.221624
+M-000073,T-0001,residential,Mariam Shawky,"25 Mesaha Sq, Dokki",30.046417,31.221452
+M-000074,T-0001,residential,Yasmin Zaki,"63 Road 233, Dokki",30.045382,31.221607
+M-000075,T-0001,residential,Mohamed Mansour,"81 Khalafawy Sq, Dokki",30.045244,31.222272
+M-000076,T-0001,residential,Aya Sabry,"3 Tahrir St, Dokki",30.044958,31.221692
+M-000077,T-0001,residential,Mariam Ezzat,"76 Khalafawy Sq, Dokki",30.045116,31.220556
+M-000078,T-0001,residential,Mariam Samir,"31 Abbas El Akkad St, Dokki",30.045072,31.220907
+M-000079,T-0001,residential,Hassan Zaki,"34 El Merghany St, Dokki",30.044257,31.222416
+M-000080,T-0001,residential,Dina Fathy,"74 Gameat El Dowal St, Dokki",30.043748,31.222712
+M-000081,T-0001,residential,Youssef Zaki,"2 El Nozha St, Dokki",30.045018,31.223125
+M-000082,T-0001,residential,Aya Samir,"19 Gameat El Dowal St, Dokki",30.044053,31.220946
+M-000083,T-0001,residential,Salma Hassan,"55 El Nozha St, Dokki",30.044681,31.223661
+M-000084,T-0001,residential,Youssef Mounir,"70 Abbas El Akkad St, Dokki",30.044920,31.223596
+M-000085,T-0001,residential,Mariam Ezzat,"13 Shubra St, Dokki",30.044127,31.221728
+M-000086,T-0001,residential,Omar Nabil,"44 El Nozha St, Dokki",30.043768,31.223199
+M-000087,T-0001,commercial,Farida Mounir,"37 Makram Ebeid St, Dokki",30.045185,31.223541
+M-000088,T-0001,residential,Dina Adel,"64 Tahrir St, Dokki",30.045190,31.221752
+M-000089,T-0001,residential,Rana Fouad,"36 El Nozha St, Dokki",30.045371,31.221766
+M-000090,T-0001,residential,Rana Ezzat,"1 El Merghany St, Dokki",30.045848,31.224087
+M-000091,T-0001,residential,Hassan Adel,"64 Khalafawy Sq, Dokki",30.046689,31.222408
+M-000092,T-0001,residential,Farida Fouad,"101 Mesaha Sq, Dokki",30.044199,31.223805
+M-000093,T-0001,residential,Hassan Zaki,"70 El Merghany St, Dokki",30.045248,31.221291
+M-000094,T-0001,residential,Laila Ibrahim,"44 Khalafawy Sq, Dokki",30.045917,31.220582
+M-000095,T-0001,residential,Farida Kamal,"58 Nile Corniche, Dokki",30.046000,31.223716
+M-000096,T-0001,residential,Ahmed Adel,"17 Gameat El Dowal St, Dokki",30.045207,31.220576
+M-000097,T-0001,residential,Amr Zaki,"29 Abbas El Akkad St, Dokki",30.045877,31.223241
+M-000098,T-0001,residential,Mariam Ibrahim,"53 Abbas El Akkad St, Dokki",30.044251,31.223006
+M-000099,T-0001,residential,Amr Fathy,"71 El Merghany St, Dokki",30.045534,31.222309
+M-000100,T-0001,residential,Youssef Hamdy,"58 Road 233, Dokki",30.045579,31.224163
+M-000101,T-0001,residential,Rana Saad,"115 Abbas El Akkad St, Dokki",30.045665,31.223470
+M-000102,T-0001,residential,Salma Kamal,"76 Mesaha Sq, Dokki",30.044259,31.222751
+M-000103,T-0001,residential,Karim Hamdy,"3 Mesaha Sq, Dokki",30.044248,31.221530
+M-000104,T-0001,residential,Omar Lotfy,"63 Road 9, Dokki",30.046225,31.221668
+M-000105,T-0001,commercial,Hassan Ali,"70 Shubra St, Dokki",30.045726,31.222210
+M-000106,T-0001,residential,Aya Ezzat,"6 Tahrir St, Dokki",30.046484,31.223130
+M-000107,T-0001,residential,Mariam Hamdy,"46 Mesaha Sq, Dokki",30.045989,31.223695
+M-000108,T-0001,commercial,Mahmoud Adel,"104 Makram Ebeid St, Dokki",30.045361,31.220609
+M-000109,T-0001,residential,Karim Lotfy,"43 Nile Corniche, Dokki",30.044822,31.223670
+M-000110,T-0001,residential,Tarek Hamdy,"55 Gameat El Dowal St, Dokki",30.046043,31.221225
+M-000111,T-0001,residential,Karim Rashad,"27 Road 233, Dokki",30.044263,31.220956
+M-000112,T-0001,commercial,Omar Shawky,"10 Tahrir St, Dokki",30.046082,31.223398
+M-000113,T-0001,residential,Mohamed Hamdy,"38 Tahrir St, Dokki",30.045234,31.221790
+M-000114,T-0001,residential,Ahmed Mounir,"92 Nile Corniche, Dokki",30.045493,31.223514
+M-000115,T-0001,residential,Rana Shawky,"117 Road 233, Dokki",30.044649,31.222511
+M-000116,T-0001,residential,Laila Sabry,"79 Tahrir St, Dokki",30.043777,31.221844
+M-000117,T-0001,residential,Mahmoud Hamdy,"99 Nile Corniche, Dokki",30.043941,31.222309
+M-000118,T-0001,residential,Tarek Ezzat,"78 El Merghany St, Dokki",30.044708,31.221587
+M-000119,T-0001,residential,Dina Mounir,"79 Road 9, Dokki",30.044643,31.221768
+M-000120,T-0001,commercial,Amr Saad,"51 Road 233, Dokki",30.046353,31.222235
+M-000121,T-0001,residential,Mahmoud Saad,"8 Abbas El Akkad St, Dokki",30.045718,31.222312
+M-000122,T-0001,residential,Farida Shawky,"49 Gameat El Dowal St, Dokki",30.043253,31.222109
+M-000123,T-0001,residential,Tarek Kamal,"103 Khalafawy Sq, Dokki",30.046109,31.223207
+M-000124,T-0001,residential,Mostafa Shawky,"64 Abbas El Akkad St, Dokki",30.044828,31.221103
+M-000125,T-0001,residential,Hassan Lotfy,"91 Shubra St, Dokki",30.046344,31.222082
+M-000126,T-0001,residential,Ahmed Galal,"7 Abbas El Akkad St, Dokki",30.044862,31.222600
+M-000127,T-0001,residential,Mohamed Kamal,"24 Road 233, Dokki",30.043265,31.222806
+M-000128,T-0001,residential,Karim Hamdy,"36 Shubra St, Dokki",30.043862,31.222972
+M-000129,T-0001,residential,Hana Saad,"43 Tahrir St, Dokki",30.046485,31.222899
+M-000130,T-0001,residential,Amr Mansour,"118 Shubra St, Dokki",30.044732,31.221787
+M-000131,T-0001,residential,Amr Hassan,"55 Abbas El Akkad St, Dokki",30.044216,31.223470
+M-000132,T-0001,residential,Mostafa Mansour,"79 Shubra St, Dokki",30.045269,31.220899
+M-000133,T-0001,residential,Youssef Mansour,"77 Road 233, Dokki",30.045835,31.220564
+M-000134,T-0001,residential,Mostafa Hamdy,"50 Tahrir St, Dokki",30.045564,31.220898
+M-000135,T-0001,residential,Mostafa Rashad,"115 Khalafawy Sq, Dokki",30.043902,31.223030
+M-000136,T-0001,residential,Rana Samir,"27 Makram Ebeid St, Dokki",30.044571,31.223282
+M-000137,T-0001,residential,Mahmoud Hassan,"5 Gameat El Dowal St, Dokki",30.044967,31.221118
+M-000138,T-0001,residential,Tarek Ibrahim,"89 Nile Corniche, Dokki",30.045387,31.220893
+M-000139,T-0001,residential,Dina Mounir,"78 Abbas El Akkad St, Dokki",30.043784,31.222391
+M-000140,T-0001,residential,Farida Galal,"31 El Nozha St, Dokki",30.045182,31.222125
+M-000141,T-0001,residential,Mariam Adel,"104 Road 9, Dokki",30.045987,31.223800
+M-000142,T-0001,commercial,Hassan Nabil,"20 El Nozha St, Dokki",30.046210,31.220960
+M-000143,T-0001,residential,Rana Kamal,"30 El Merghany St, Dokki",30.045530,31.222757
+M-000144,T-0001,residential,Tarek Zaki,"19 Makram Ebeid St, Dokki",30.045738,31.223586
+M-000145,T-0001,residential,Tarek Samir,"23 El Nozha St, Dokki",30.044395,31.222170
+M-000146,T-0001,residential,Omar Ali,"87 Makram Ebeid St, Dokki",30.046320,31.223016
+M-000147,T-0001,residential,Ahmed Kamal,"84 Nile Corniche, Dokki",30.045877,31.222674
+M-000148,T-0001,residential,Farida Nabil,"77 Gameat El Dowal St, Dokki",30.046437,31.222320
+M-000149,T-0001,residential,Salma Adel,"103 Mesaha Sq, Dokki",30.043561,31.223005
+M-000150,T-0001,commercial,Karim Saad,"9 Shubra St, Dokki",30.045218,31.220514
+M-000151,T-0001,residential,Mariam Zaki,"74 Gameat El Dowal St, Dokki",30.045552,31.222463
+M-000152,T-0001,residential,Tarek Mansour,"14 Mesaha Sq, Dokki",30.043982,31.220689
+M-000153,T-0001,residential,Amr Nabil,"114 Shubra St, Dokki",30.045358,31.221421
+M-000154,T-0001,residential,Hana Shawky,"76 Gameat El Dowal St, Dokki",30.045146,31.222665
+M-000155,T-0001,residential,Mohamed Fouad,"91 Abbas El Akkad St, Dokki",30.045784,31.223549
+M-000156,T-0001,residential,Tarek Lotfy,"68 El Merghany St, Dokki",30.045678,31.221344
+M-000157,T-0001,residential,Karim Mounir,"46 Khalafawy Sq, Dokki",30.045702,31.220618
+M-000158,T-0001,residential,Salma Ibrahim,"82 Road 9, Dokki",30.043405,31.221862
+M-000159,T-0001,residential,Hassan Ezzat,"100 Abbas El Akkad St, Dokki",30.045402,31.221253
+M-000160,T-0001,residential,Youssef Hamdy,"22 Road 9, Dokki",30.046442,31.223432
+M-000161,T-0001,residential,Aya Zaki,"104 Road 9, Dokki",30.044210,31.223005
+M-000162,T-0001,residential,Mohamed Samir,"87 Shubra St, Dokki",30.044876,31.220828
+M-000163,T-0001,residential,Karim Adel,"11 Road 9, Dokki",30.044932,31.223365
+M-000164,T-0001,residential,Dina Hassan,"112 Road 9, Dokki",30.045000,31.220304
+M-000165,T-0001,residential,Nour Mounir,"22 Gameat El Dowal St, Dokki",30.044245,31.222293
+M-000166,T-0001,residential,Dina Rashad,"72 El Merghany St, Dokki",30.044976,31.221874
+M-000167,T-0001,residential,Farida Kamal,"16 Gameat El Dowal St, Dokki",30.043817,31.222617
+M-000168,T-0001,residential,Salma Mansour,"24 Shubra St, Dokki",30.043765,31.223843
+M-000169,T-0001,residential,Ahmed Hassan,"77 Nile Corniche, Dokki",30.045302,31.224241
+M-000170,T-0001,residential,Dina Saad,"81 Abbas El Akkad St, Dokki",30.045378,31.224052
+M-000171,T-0001,residential,Tarek Rashad,"82 Gameat El Dowal St, Dokki",30.044991,31.220353
+M-000172,T-0001,residential,Mariam Mansour,"41 Gameat El Dowal St, Dokki",30.046223,31.223650
+M-000173,T-0001,residential,Farida Lotfy,"98 Tahrir St, Dokki",30.046087,31.223085
+M-000174,T-0001,residential,Laila Zaki,"6 Road 9, Dokki",30.045427,31.223360
+M-000175,T-0001,residential,Farida Rashad,"102 Road 9, Dokki",30.045690,31.223944
+M-000176,T-0001,residential,Nour Sabry,"36 Road 233, Dokki",30.045624,31.220800
+M-000177,T-0001,residential,Dina Ali,"74 Khalafawy Sq, Dokki",30.044091,31.223071
+M-000178,T-0001,residential,Laila Zaki,"108 Shubra St, Dokki",30.045527,31.222276
+M-000179,T-0001,residential,Dina Hamdy,"31 Abbas El Akkad St, Dokki",30.045987,31.223679
+M-000180,T-0001,residential,Laila Nabil,"49 El Nozha St, Dokki",30.044450,31.221440
+M-000181,T-0001,residential,Mostafa Saad,"99 Gameat El Dowal St, Dokki",30.043322,31.222952
+M-000182,T-0001,residential,Youssef Fathy,"103 Road 233, Dokki",30.044284,31.222951
+M-000183,T-0001,residential,Hassan Saad,"28 Gameat El Dowal St, Dokki",30.045421,31.221800
+M-000184,T-0001,commercial,Mostafa Mansour,"61 El Nozha St, Dokki",30.046597,31.222026
+M-000185,T-0001,residential,Aya Ibrahim,"40 Gameat El Dowal St, Dokki",30.045467,31.221732
+M-000186,T-0001,residential,Nour Zaki,"62 Nile Corniche, Dokki",30.045245,31.223138
+M-000187,T-0001,commercial,Yasmin Ibrahim,"46 Tahrir St, Dokki",30.045229,31.223897
+M-000188,T-0001,residential,Yasmin Hassan,"1 Khalafawy Sq, Dokki",30.044038,31.220700
+M-000189,T-0001,residential,Omar Adel,"111 Abbas El Akkad St, Dokki",30.044781,31.223208
+M-000190,T-0001,residential,Dina Saad,"76 Khalafawy Sq, Dokki",30.044879,31.221162
+M-000191,T-0001,residential,Aya Mounir,"55 Khalafawy Sq, Dokki",30.043524,31.221572
+M-000192,T-0001,residential,Farida Adel,"13 Makram Ebeid St, Dokki",30.043290,31.221671
+M-000193,T-0001,residential,Mohamed Fathy,"9 Tahrir St, Dokki",30.045578,31.221020
+M-000194,T-0001,residential,Aya Saad,"57 Road 233, Dokki",30.044807,31.221551
+M-000195,T-0001,residential,Salma Samir,"78 Makram Ebeid St, Dokki",30.045184,31.222356
+M-000196,T-0001,residential,Aya Rashad,"31 El Merghany St, Dokki",30.045796,31.222620
+M-000197,T-0001,residential,Mariam Lotfy,"89 Tahrir St, Dokki",30.044450,31.221865
+M-000198,T-0001,residential,Farida Samir,"47 Tahrir St, Dokki",30.043499,31.222463
+M-000199,T-0001,residential,Nour Rashad,"2 Road 233, Dokki",30.044935,31.223039
+M-000200,T-0001,residential,Rana Fouad,"64 Khalafawy Sq, Dokki",30.043858,31.223038
+M-000201,T-0002,residential,Tarek Sabry,"22 Makram Ebeid St, Dokki",30.037008,31.215438
+M-000202,T-0002,residential,Farida Shawky,"2 Makram Ebeid St, Dokki",30.037568,31.215763
+M-000203,T-0002,residential,Mahmoud Nabil,"16 Mesaha Sq, Dokki",30.036187,31.216819
+M-000204,T-0002,residential,Amr Hamdy,"34 Makram Ebeid St, Dokki",30.035720,31.218397
+M-000205,T-0002,residential,Hana Sabry,"62 Makram Ebeid St, Dokki",30.036736,31.218911
+M-000206,T-0002,residential,Ahmed Fouad,"118 Makram Ebeid St, Dokki",30.035400,31.216922
+M-000207,T-0002,residential,Yasmin Mounir,"26 Road 9, Dokki",30.036675,31.217858
+M-000208,T-0002,residential,Mahmoud Ezzat,"7 Makram Ebeid St, Dokki",30.036351,31.216881
+M-000209,T-0002,residential,Ahmed Saad,"23 Shubra St, Dokki",30.036162,31.215374
+M-000210,T-0002,residential,Rana Lotfy,"39 Road 9, Dokki",30.037972,31.217696
+M-000211,T-0002,residential,Farida Rashad,"25 Khalafawy Sq, Dokki",30.037921,31.217175
+M-000212,T-0002,residential,Salma Mansour,"39 El Nozha St, Dokki",30.037229,31.218580
+M-000213,T-0002,residential,Nour Mansour,"116 El Nozha St, Dokki",30.038088,31.216126
+M-000214,T-0002,residential,Youssef Ezzat,"46 El Nozha St, Dokki",30.035866,31.215552
+M-000215,T-0002,residential,Tarek Rashad,"76 Gameat El Dowal St, Dokki",30.037387,31.218149
+M-000216,T-0002,residential,Hana Mansour,"82 Makram Ebeid St, Dokki",30.038269,31.215896
+M-000217,T-0002,residential,Salma Hassan,"16 Gameat El Dowal St, Dokki",30.036654,31.217229
+M-000218,T-0002,commercial,Karim Kamal,"30 Abbas El Akkad St, Dokki",30.035607,31.217399
+M-000219,T-0002,commercial,Tarek Galal,"50 Mesaha Sq, Dokki",30.038250,31.216515
+M-000220,T-0002,residential,Dina Hamdy,"55 Khalafawy Sq, Dokki",30.037478,31.217414
+M-000221,T-0002,residential,Tarek Ali,"2 Nile Corniche, Dokki",30.037079,31.217927
+M-000222,T-0002,residential,Aya Ezzat,"77 Mesaha Sq, Dokki",30.035933,31.216477
+M-000223,T-0002,residential,Amr Sabry,"36 El Nozha St, Dokki",30.037527,31.219092
+M-000224,T-0002,residential,Laila Mansour,"39 El Merghany St, Dokki",30.036338,31.215717
+M-000225,T-0002,residential,Omar Hassan,"72 Abbas El Akkad St, Dokki",30.037322,31.219124
+M-000226,T-0002,residential,Aya Shawky,"113 El Merghany St, Dokki",30.038244,31.218255
+M-000227,T-0002,residential,Mostafa Ali,"103 Shubra St, Dokki",30.037262,31.218537
+M-000228,T-0002,residential,Farida Adel,"117 El Merghany St, Dokki",30.035523,31.218027
+M-000229,T-0002,residential,Karim Rashad,"50 El Merghany St, Dokki",30.037041,31.217416
+M-000230,T-0002,residential,Tarek Galal,"15 Nile Corniche, Dokki",30.037327,31.217682
+M-000231,T-0002,residential,Hana Samir,"26 Abbas El Akkad St, Dokki",30.037980,31.215711
+M-000232,T-0002,commercial,Youssef Ezzat,"41 El Nozha St, Dokki",30.036245,31.218844
+M-000233,T-0002,residential,Mariam Galal,"36 Makram Ebeid St, Dokki",30.036376,31.217937
+M-000234,T-0002,residential,Karim Hassan,"25 Gameat El Dowal St, Dokki",30.038166,31.217683
+M-000235,T-0002,residential,Dina Fathy,"18 Makram Ebeid St, Dokki",30.036058,31.218431
+M-000236,T-0002,residential,Rana Hamdy,"23 Nile Corniche, Dokki",30.036777,31.219095
+M-000237,T-0002,residential,Omar Lotfy,"79 El Nozha St, Dokki",30.035859,31.216135
+M-000238,T-0002,residential,Mohamed Samir,"59 Abbas El Akkad St, Dokki",30.037253,31.218450
+M-000239,T-0002,residential,Tarek Zaki,"5 Khalafawy Sq, Dokki",30.037774,31.216347
+M-000240,T-0002,residential,Nour Rashad,"68 Abbas El Akkad St, Dokki",30.037995,31.216587
+M-000241,T-0002,residential,Amr Hamdy,"101 Makram Ebeid St, Dokki",30.038110,31.218152
+M-000242,T-0002,residential,Mostafa Hamdy,"51 Road 9, Dokki",30.038242,31.218377
+M-000243,T-0002,residential,Mohamed Ali,"38 Shubra St, Dokki",30.037841,31.218096
+M-000244,T-0002,residential,Yasmin Saad,"33 Road 9, Dokki",30.036278,31.216461
+M-000245,T-0002,residential,Aya Ibrahim,"46 El Merghany St, Dokki",30.037564,31.217869
+M-000246,T-0002,residential,Mahmoud Galal,"34 El Merghany St, Dokki",30.037866,31.215731
+M-000247,T-0002,residential,Mostafa Galal,"110 Abbas El Akkad St, Dokki",30.036977,31.215290
+M-000248,T-0002,residential,Karim Lotfy,"119 Abbas El Akkad St, Dokki",30.037181,31.216557
+M-000249,T-0002,commercial,Laila Ibrahim,"41 Makram Ebeid St, Dokki",30.036475,31.217080
+M-000250,T-0002,residential,Karim Shawky,"110 Abbas El Akkad St, Dokki",30.038321,31.217134
+M-000251,T-0002,residential,Dina Saad,"102 Gameat El Dowal St, Dokki",30.037595,31.217385
+M-000252,T-0002,residential,Mostafa Samir,"10 Road 9, Dokki",30.035603,31.218265
+M-000253,T-0002,residential,Omar Nabil,"59 Road 9, Dokki",30.036484,31.218203
+M-000254,T-0002,residential,Mahmoud Sabry,"79 Shubra St, Dokki",30.037581,31.216917
+M-000255,T-0002,residential,Aya Ibrahim,"51 Khalafawy Sq, Dokki",30.035403,31.216241
+M-000256,T-0002,residential,Nour Rashad,"55 Shubra St, Dokki",30.037186,31.216374
+M-000257,T-0002,residential,Salma Mounir,"59 El Merghany St, Dokki",30.037394,31.218140
+M-000258,T-0002,residential,Salma Zaki,"82 Gameat El Dowal St, Dokki",30.037632,31.217058
+M-000259,T-0002,residential,Ahmed Ali,"35 Nile Corniche, Dokki",30.036321,31.217173
+M-000260,T-0002,residential,Salma Galal,"72 Abbas El Akkad St, Dokki",30.036672,31.217179
+M-000261,T-0002,residential,Tarek Rashad,"29 Mesaha Sq, Dokki",30.037350,31.217078
+M-000262,T-0002,residential,Omar Fouad,"106 Road 9, Dokki",30.036382,31.217759
+M-000263,T-0002,residential,Aya Zaki,"11 Nile Corniche, Dokki",30.036600,31.217456
+M-000264,T-0002,residential,Mahmoud Ezzat,"8 Gameat El Dowal St, Dokki",30.035741,31.216356
+M-000265,T-0002,residential,Laila Fouad,"5 Shubra St, Dokki",30.037963,31.218403
+M-000266,T-0002,commercial,Karim Mansour,"42 Shubra St, Dokki",30.036445,31.218343
+M-000267,T-0002,residential,Rana Fouad,"73 Abbas El Akkad St, Dokki",30.037288,31.218266
+M-000268,T-0002,residential,Ahmed Ali,"118 El Nozha St, Dokki",30.037952,31.218060
+M-000269,T-0002,residential,Rana Lotfy,"55 Abbas El Akkad St, Dokki",30.038056,31.215718
+M-000270,T-0002,residential,Aya Ibrahim,"22 El Merghany St, Dokki",30.035527,31.216147
+M-000271,T-0002,residential,Mostafa Samir,"44 Abbas El Akkad St, Dokki",30.036696,31.217504
+M-000272,T-0002,residential,Omar Samir,"16 Tahrir St, Dokki",30.036289,31.217648
+M-000273,T-0002,residential,Mariam Nabil,"57 Gameat El Dowal St, Dokki",30.036137,31.217589
+M-000274,T-0002,residential,Mahmoud Kamal,"87 Nile Corniche, Dokki",30.036331,31.216397
+M-000275,T-0002,residential,Yasmin Rashad,"5 Shubra St, Dokki",30.038152,31.216470
+M-000276,T-0002,residential,Karim Adel,"93 El Nozha St, Dokki",30.037992,31.216618
+M-000277,T-0002,residential,Mariam Saad,"28 Abbas El Akkad St, Dokki",30.036623,31.217458
+M-000278,T-0002,residential,Rana Ezzat,"81 El Merghany St, Dokki",30.036408,31.218283
+M-000279,T-0002,residential,Ahmed Mounir,"98 Shubra St, Dokki",30.035692,31.217623
+M-000280,T-0002,residential,Ahmed Fouad,"93 El Merghany St, Dokki",30.036411,31.216893
+M-000281,T-0002,residential,Hana Adel,"80 Makram Ebeid St, Dokki",30.035337,31.217618
+M-000282,T-0002,residential,Omar Hassan,"83 Road 9, Dokki",30.036711,31.216769
+M-000283,T-0002,residential,Yasmin Hassan,"23 Nile Corniche, Dokki",30.035302,31.216497
+M-000284,T-0002,residential,Amr Samir,"17 Makram Ebeid St, Dokki",30.036689,31.217758
+M-000285,T-0002,residential,Farida Galal,"46 Gameat El Dowal St, Dokki",30.035998,31.218741
+M-000286,T-0002,commercial,Rana Hamdy,"73 Khalafawy Sq, Dokki",30.035697,31.218532
+M-000287,T-0002,residential,Nour Adel,"74 Nile Corniche, Dokki",30.038409,31.218320
+M-000288,T-0002,commercial,Mostafa Mounir,"93 El Merghany St, Dokki",30.037744,31.218776
+M-000289,T-0002,commercial,Tarek Kamal,"37 Abbas El Akkad St, Dokki",30.036666,31.215358
+M-000290,T-0002,residential,Mahmoud Nabil,"103 Tahrir St, Dokki",30.035827,31.218237
+M-000291,T-0002,residential,Salma Kamal,"54 El Merghany St, Dokki",30.037284,31.218956
+M-000292,T-0002,residential,Mariam Fathy,"30 Road 9, Dokki",30.036323,31.216875
+M-000293,T-0002,residential,Mohamed Ezzat,"88 Mesaha Sq, Dokki",30.036979,31.215646
+M-000294,T-0002,residential,Hassan Samir,"16 Gameat El Dowal St, Dokki",30.036873,31.218656
+M-000295,T-0002,residential,Youssef Zaki,"49 Gameat El Dowal St, Dokki",30.037706,31.215462
+M-000296,T-0002,residential,Mariam Samir,"93 Road 9, Dokki",30.038033,31.216545
+M-000297,T-0002,residential,Laila Galal,"92 Shubra St, Dokki",30.036019,31.216426
+M-000298,T-0002,residential,Mostafa Rashad,"31 Road 9, Dokki",30.036231,31.215716
+M-000299,T-0002,residential,Farida Fouad,"20 Road 233, Dokki",30.037812,31.217515
+M-000300,T-0002,residential,Ahmed Ibrahim,"4 El Nozha St, Dokki",30.037567,31.216907
+M-000301,T-0002,residential,Hana Galal,"11 Road 9, Dokki",30.035962,31.218066
+M-000302,T-0002,commercial,Mahmoud Mansour,"99 Khalafawy Sq, Dokki",30.037965,31.216550
+M-000303,T-0002,residential,Amr Nabil,"94 Abbas El Akkad St, Dokki",30.036170,31.216690
+M-000304,T-0002,residential,Salma Ezzat,"61 Shubra St, Dokki",30.038024,31.217204
+M-000305,T-0002,residential,Omar Ali,"68 Gameat El Dowal St, Dokki",30.037991,31.217469
+M-000306,T-0002,residential,Tarek Adel,"39 Nile Corniche, Dokki",30.036497,31.216090
+M-000307,T-0002,residential,Yasmin Mansour,"23 Tahrir St, Dokki",30.035909,31.216676
+M-000308,T-0002,residential,Ahmed Adel,"2 Mesaha Sq, Dokki",30.038403,31.217453
+M-000309,T-0002,residential,Yasmin Fouad,"80 El Nozha St, Dokki",30.036893,31.216036
+M-000310,T-0002,residential,Mariam Nabil,"5 Gameat El Dowal St, Dokki",30.037983,31.215546
+M-000311,T-0002,commercial,Karim Ibrahim,"13 Nile Corniche, Dokki",30.035210,31.217212
+M-000312,T-0002,commercial,Mohamed Hassan,"95 Nile Corniche, Dokki",30.035714,31.217475
+M-000313,T-0002,residential,Salma Saad,"70 Mesaha Sq, Dokki",30.037964,31.217208
+M-000314,T-0002,residential,Mariam Mounir,"59 El Merghany St, Dokki",30.037234,31.215687
+M-000315,T-0002,residential,Hana Shawky,"26 Shubra St, Dokki",30.036128,31.218841
+M-000316,T-0002,residential,Mahmoud Fouad,"18 El Nozha St, Dokki",30.037985,31.216008
+M-000317,T-0002,residential,Dina Samir,"56 Khalafawy Sq, Dokki",30.035806,31.218501
+M-000318,T-0002,residential,Rana Hamdy,"43 Abbas El Akkad St, Dokki",30.035728,31.216564
+M-000319,T-0002,residential,Youssef Ibrahim,"64 Road 233, Dokki",30.036751,31.218807
+M-000320,T-0002,residential,Ahmed Nabil,"20 Road 233, Dokki",30.037448,31.218112
+M-000321,T-0002,residential,Karim Zaki,"28 Gameat El Dowal St, Dokki",30.037174,31.215407
+M-000322,T-0002,residential,Mariam Fouad,"14 Abbas El Akkad St, Dokki",30.036123,31.217187
+M-000323,T-0002,residential,Yasmin Lotfy,"51 Makram Ebeid St, Dokki",30.035472,31.216774
+M-000324,T-0002,residential,Yasmin Ezzat,"33 Tahrir St, Dokki",30.038564,31.216752
+M-000325,T-0002,residential,Tarek Sabry,"27 Mesaha Sq, Dokki",30.037570,31.216996
+M-000326,T-0002,residential,Hassan Saad,"66 Gameat El Dowal St, Dokki",30.037802,31.215884
+M-000327,T-0002,residential,Mahmoud Ali,"60 Nile Corniche, Dokki",30.037145,31.217760
+M-000328,T-0002,residential,Farida Saad,"25 Makram Ebeid St, Dokki",30.035661,31.216179
+M-000329,T-0002,residential,Rana Lotfy,"84 Shubra St, Dokki",30.037310,31.216749
+M-000330,T-0002,commercial,Hassan Galal,"41 El Nozha St, Dokki",30.035706,31.218594
+M-000331,T-0002,residential,Laila Galal,"41 Nile Corniche, Dokki",30.037470,31.217625
+M-000332,T-0002,commercial,Amr Nabil,"57 Makram Ebeid St, Dokki",30.037592,31.215280
+M-000333,T-0002,residential,Ahmed Sabry,"17 Gameat El Dowal St, Dokki",30.035333,31.217380
+M-000334,T-0002,residential,Dina Mansour,"50 Road 9, Dokki",30.035658,31.216537
+M-000335,T-0002,residential,Mohamed Sabry,"70 Shubra St, Dokki",30.038515,31.216961
+M-000336,T-0002,commercial,Youssef Mansour,"16 Road 9, Dokki",30.035679,31.216011
+M-000337,T-0002,residential,Hana Ibrahim,"68 Shubra St, Dokki",30.035373,31.218085
+M-000338,T-0002,residential,Mohamed Ali,"5 Road 9, Dokki",30.036313,31.217930
+M-000339,T-0002,residential,Farida Mounir,"72 Nile Corniche, Dokki",30.035732,31.217957
+M-000340,T-0002,commercial,Hassan Kamal,"5 El Nozha St, Dokki",30.037341,31.217601
+M-000341,T-0002,commercial,Hassan Samir,"21 Makram Ebeid St, Dokki",30.037325,31.215600
+M-000342,T-0002,residential,Nour Samir,"42 Gameat El Dowal St, Dokki",30.037323,31.216435
+M-000343,T-0002,residential,Salma Samir,"74 Shubra St, Dokki",30.036643,31.218693
+M-000344,T-0002,residential,Salma Galal,"86 Road 233, Dokki",30.036481,31.218651
+M-000345,T-0002,residential,Omar Ali,"56 Mesaha Sq, Dokki",30.037798,31.216160
+M-000346,T-0002,residential,Nour Ibrahim,"16 Gameat El Dowal St, Dokki",30.038220,31.217393
+M-000347,T-0002,residential,Omar Lotfy,"47 Khalafawy Sq, Dokki",30.035373,31.216934
+M-000348,T-0002,residential,Hassan Mansour,"94 Shubra St, Dokki",30.035366,31.217588
+M-000349,T-0002,residential,Aya Ibrahim,"11 Khalafawy Sq, Dokki",30.036469,31.215811
+M-000350,T-0002,residential,Amr Hassan,"86 El Nozha St, Dokki",30.037655,31.218544
+M-000351,T-0002,residential,Amr Fathy,"46 Abbas El Akkad St, Dokki",30.036080,31.215420
+M-000352,T-0002,commercial,Laila Nabil,"1 Abbas El Akkad St, Dokki",30.036488,31.217670
+M-000353,T-0002,residential,Omar Hassan,"83 Tahrir St, Dokki",30.036481,31.216685
+M-000354,T-0002,residential,Mahmoud Fathy,"4 Tahrir St, Dokki",30.037449,31.217321
+M-000355,T-0002,residential,Omar Hamdy,"44 Shubra St, Dokki",30.035515,31.217569
+M-000356,T-0002,residential,Dina Ezzat,"24 Nile Corniche, Dokki",30.035780,31.216980
+M-000357,T-0002,residential,Farida Ezzat,"70 Mesaha Sq, Dokki",30.037285,31.218951
+M-000358,T-0002,residential,Amr Samir,"7 El Merghany St, Dokki",30.037876,31.218477
+M-000359,T-0002,residential,Salma Adel,"11 Mesaha Sq, Dokki",30.037325,31.218279
+M-000360,T-0002,residential,Salma Mounir,"64 Road 9, Dokki",30.035982,31.218803
+M-000361,T-0002,residential,Mostafa Lotfy,"119 Khalafawy Sq, Dokki",30.038223,31.218205
+M-000362,T-0002,residential,Laila Mansour,"5 Khalafawy Sq, Dokki",30.037818,31.216816
+M-000363,T-0002,residential,Tarek Nabil,"55 Gameat El Dowal St, Dokki",30.036035,31.217872
+M-000364,T-0002,residential,Mostafa Adel,"96 Makram Ebeid St, Dokki",30.037299,31.216081
+M-000365,T-0002,residential,Yasmin Mansou,"35 Gameat El Dowal St, Dokki",30.037638,31.217035
+M-000366,T-0002,residential,Omar Mansour,"59 Khalafawy Sq, Dokki",30.037538,31.217556
+M-000367,T-0002,residential,Rana Hassan,"100 Road 9, Dokki",30.035924,31.215528
+M-000368,T-0002,residential,Ahmed Mounir,"87 Makram Ebeid St, Dokki",30.037756,31.216173
+M-000369,T-0002,residential,Yasmin Shawky,"35 Mesaha Sq, Dokki",30.036192,31.216206
+M-000370,T-0002,residential,Laila Shawky,"90 Gameat El Dowal St, Dokki",30.035546,31.217933
+M-000371,T-0002,residential,Nour Fathy,"81 Abbas El Akkad St, Dokki",30.035718,31.217816
+M-000372,T-0002,residential,Rana Lotfy,"61 Makram Ebeid St, Dokki",30.038631,31.217617
+M-000373,T-0002,residential,Youssef Hamdy,"53 Road 9, Dokki",30.035380,31.216771
+M-000374,T-0002,commercial,Yasmin Ali,"111 Mesaha Sq, Dokki",30.038178,31.217109
+M-000375,T-0002,commercial,Mostafa Shawky,"105 Khalafawy Sq, Dokki",30.038000,31.216840
+M-000376,T-0002,residential,Salma Zaki,"118 Shubra St, Dokki",30.038664,31.217686
+M-000377,T-0002,residential,Tarek Sabry,"81 Mesaha Sq, Dokki",30.036515,31.215474
+M-000378,T-0002,commercial,Hassan Fathy,"43 Mesaha Sq, Dokki",30.036372,31.219088
+M-000379,T-0002,residential,Mahmoud Ezzat,"14 Tahrir St, Dokki",30.037441,31.216758
+M-000380,T-0002,commercial,Yasmin Fouad,"15 Gameat El Dowal St, Dokki",30.038527,31.217703
+M-000381,T-0002,residential,Omar Ali,"114 Road 233, Dokki",30.038255,31.216517
+M-000382,T-0002,residential,Mostafa Ibrahim,"44 El Nozha St, Dokki",30.037261,31.216548
+M-000383,T-0002,residential,Nour Saad,"14 Mesaha Sq, Dokki",30.037954,31.218240
+M-000384,T-0002,commercial,Mahmoud Nabil,"27 Abbas El Akkad St, Dokki",30.038320,31.217799
+M-000385,T-0002,residential,Hana Fouad,"3 El Merghany St, Dokki",30.037034,31.216969
+M-000386,T-0002,residential,Mostafa Hamdy,"64 Abbas El Akkad St, Dokki",30.037610,31.218330
+M-000387,T-0002,residential,Amr Saad,"71 El Nozha St, Dokki",30.035337,31.216757
+M-000388,T-0002,residential,Hana Mounir,"46 Gameat El Dowal St, Dokki",30.037777,31.216597
+M-000389,T-0002,residential,Nour Saad,"89 Makram Ebeid St, Dokki",30.035822,31.216589
+M-000390,T-0002,residential,Karim Shawky,"58 El Nozha St, Dokki",30.035977,31.217999
+M-000391,T-0002,residential,Farida Galal,"115 Nile Corniche, Dokki",30.036002,31.217554
+M-000392,T-0002,residential,Laila Sabry,"91 Nile Corniche, Dokki",30.038524,31.217937
+M-000393,T-0002,residential,Mariam Rashad,"9 Tahrir St, Dokki",30.038494,31.216809
+M-000394,T-0002,residential,Yasmin Hamdy,"33 Mesaha Sq, Dokki",30.036710,31.217809
+M-000395,T-0002,residential,Salma Ibrahim,"90 Gameat El Dowal St, Dokki",30.037601,31.219094
+M-000396,T-0002,residential,Dina Hassan,"64 Gameat El Dowal St, Dokki",30.036554,31.219066
+M-000397,T-0002,residential,Hassan Kamal,"90 Makram Ebeid St, Dokki",30.037868,31.216922
+M-000398,T-0002,residential,Farida Ali,"40 El Merghany St, Dokki",30.038299,31.218229
+M-000399,T-0002,residential,Amr Samir,"5 El Merghany St, Dokki",30.037328,31.216665
+M-000400,T-0002,residential,Mohamed Fathy,"94 Shubra St, Dokki",30.036462,31.215162
+M-000401,T-0003,residential,Hassan Galal,"94 Khalafawy Sq, Dokki",30.047714,31.216280
+M-000402,T-0003,residential,Tarek Ezzat,"77 Road 9, Dokki",30.048441,31.217513
+M-000403,T-0003,residential,Yasmin Sabry,"49 Nile Corniche, Dokki",30.047303,31.217242
+M-000404,T-0003,residential,Dina Hamdy,"2 Tahrir St, Dokki",30.048604,31.217080
+M-000405,T-0003,residential,Yasmin Saad,"87 Tahrir St, Dokki",30.047220,31.218019
+M-000406,T-0003,residential,Yasmin Hassan,"79 Gameat El Dowal St, Dokki",30.047257,31.216787
+M-000407,T-0003,residential,Yasmin Zaki,"80 Abbas El Akkad St, Dokki",30.046353,31.217543
+M-000408,T-0003,residential,Aya Rashad,"21 Gameat El Dowal St, Dokki",30.045479,31.217271
+M-000409,T-0003,commercial,Tarek Samir,"88 Makram Ebeid St, Dokki",30.047651,31.217217
+M-000410,T-0003,residential,Mariam Fouad,"87 Road 9, Dokki",30.048697,31.217416
+M-000411,T-0003,residential,Karim Fouad,"103 Tahrir St, Dokki",30.046598,31.216149
+M-000412,T-0003,residential,Nour Fathy,"68 Gameat El Dowal St, Dokki",30.046666,31.217808
+M-000413,T-0003,residential,Salma Adel,"88 Road 9, Dokki",30.046879,31.217807
+M-000414,T-0003,residential,Youssef Kamal,"48 Abbas El Akkad St, Dokki",30.046697,31.218075
+M-000415,T-0003,residential,Mahmoud Rashad,"83 Road 233, Dokki",30.046102,31.219002
+M-000416,T-0003,residential,Yasmin Mounir,"83 Mesaha Sq, Dokki",30.045755,31.218938
+M-000417,T-0003,commercial,Youssef Mansour,"93 Khalafawy Sq, Dokki",30.047749,31.218308
+M-000418,T-0003,residential,Nour Hamdy,"102 Tahrir St, Dokki",30.048473,31.218661
+M-000419,T-0003,residential,Salma Sabry,"1 Road 233, Dokki",30.047087,31.217277
+M-000420,T-0003,residential,Dina Ibrahim,"93 Road 9, Dokki",30.045487,31.218384
+M-000421,T-0003,residential,Tarek Zaki,"95 Tahrir St, Dokki",30.048578,31.216921
+M-000422,T-0003,residential,Nour Fouad,"65 Tahrir St, Dokki",30.045802,31.216582
+M-000423,T-0003,residential,Mostafa Shawky,"62 El Merghany St, Dokki",30.048474,31.218146
+M-000424,T-0003,residential,Yasmin Hassan,"87 Road 9, Dokki",30.047911,31.219356
+M-000425,T-0003,residential,Mariam Galal,"55 Mesaha Sq, Dokki",30.047105,31.218166
+M-000426,T-0003,residential,Mariam Mounir,"50 Mesaha Sq, Dokki",30.047806,31.217624
+M-000427,T-0003,residential,Tarek Hassan,"96 Khalafawy Sq, Dokki",30.047131,31.218486
+M-000428,T-0003,residential,Hana Fathy,"94 Shubra St, Dokki",30.045734,31.217620
+M-000429,T-0003,residential,Ahmed Saad,"25 El Nozha St, Dokki",30.048437,31.217065
+M-000430,T-0003,residential,Laila Lotfy,"99 Nile Corniche, Dokki",30.048420,31.217530
+M-000431,T-0003,residential,Youssef Shawky,"39 Tahrir St, Dokki",30.047148,31.219676
+M-000432,T-0003,residential,Karim Saad,"17 Shubra St, Dokki",30.047682,31.218014
+M-000433,T-0003,residential,Farida Sabry,"105 Khalafawy Sq, Dokki",30.047885,31.219230
+M-000434,T-0003,residential,Tarek Samir,"29 Abbas El Akkad St, Dokki",30.047735,31.218119
+M-000435,T-0003,residential,Rana Fouad,"25 El Merghany St, Dokki",30.047323,31.218783
+M-000436,T-0003,residential,Tarek Samir,"33 Khalafawy Sq, Dokki",30.045628,31.217034
+M-000437,T-0003,commercial,Hassan Mansour,"59 El Nozha St, Dokki",30.048526,31.216690
+M-000438,T-0003,residential,Ahmed Fouad,"20 Abbas El Akkad St, Dokki",30.045637,31.217389
+M-000439,T-0003,residential,Hassan Nabil,"19 El Nozha St, Dokki",30.046711,31.217420
+M-000440,T-0003,residential,Tarek Kamal,"47 Khalafawy Sq, Dokki",30.047427,31.219323
+M-000441,T-0003,residential,Tarek Galal,"26 Tahrir St, Dokki",30.047122,31.217359
+M-000442,T-0003,residential,Nour Mansour,"23 El Merghany St, Dokki",30.045757,31.216448
+M-000443,T-0003,residential,Youssef Galal,"109 El Merghany St, Dokki",30.048003,31.216446
+M-000444,T-0003,residential,Ahmed Shawky,"71 Road 9, Dokki",30.047717,31.217492
+M-000445,T-0003,residential,Mostafa Lotfy,"2 Tahrir St, Dokki",30.046692,31.218280
+M-000446,T-0003,residential,Tarek Nabil,"13 Mesaha Sq, Dokki",30.047656,31.218245
+M-000447,T-0003,residential,Mohamed Lotfy,"97 Khalafawy Sq, Dokki",30.047275,31.219800
+M-000448,T-0003,residential,Tarek Nabil,"33 Khalafawy Sq, Dokki",30.045879,31.218301
+M-000449,T-0003,residential,Rana Hassan,"19 Road 233, Dokki",30.048508,31.217150
+M-000450,T-0003,residential,Amr Saad,"80 Gameat El Dowal St, Dokki",30.045970,31.218913
+M-000451,T-0003,residential,Mahmoud Hassan,"100 Gameat El Dowal St, Dokki",30.047184,31.216206
+M-000452,T-0003,residential,Mostafa Galal,"48 El Nozha St, Dokki",30.046343,31.217566
+M-000453,T-0003,residential,Hassan Mounir,"89 El Merghany St, Dokki",30.047724,31.219610
+M-000454,T-0003,residential,Youssef Lotfy,"51 Gameat El Dowal St, Dokki",30.046582,31.218796
+M-000455,T-0003,residential,Mohamed Ibrahim,"13 El Nozha St, Dokki",30.046224,31.216469
+M-000456,T-0003,residential,Ahmed Ezzat,"95 Gameat El Dowal St, Dokki",30.046305,31.216227
+M-000457,T-0003,residential,Hana Hamdy,"110 Gameat El Dowal St, Dokki",30.045676,31.218433
+M-000458,T-0003,residential,Laila Adel,"118 Abbas El Akkad St, Dokki",30.047240,31.219763
+M-000459,T-0003,residential,Yasmin Mansour,"12 El Nozha St, Dokki",30.046885,31.216977
+M-000460,T-0003,residential,Nour Zaki,"68 Shubra St, Dokki",30.047633,31.219059
+M-000461,T-0003,residential,Amr Hassan,"75 Khalafawy Sq, Dokki",30.048061,31.217254
+M-000462,T-0003,residential,Mohamed Mansour,"10 Road 9, Dokki",30.047478,31.219089
+M-000463,T-0003,residential,Mariam Hamdy,"114 Nile Corniche, Dokki",30.047492,31.218214
+M-000464,T-0003,residential,Mariam Saad,"13 Road 233, Dokki",30.046347,31.217777
+M-000465,T-0003,residential,Tarek Kamal,"32 Road 9, Dokki",30.046064,31.217631
+M-000466,T-0003,commercial,Farida Mansour,"116 Mesaha Sq, Dokki",30.046014,31.217707
+M-000467,T-0003,residential,Salma Hamdy,"67 Makram Ebeid St, Dokki",30.045921,31.218292
+M-000468,T-0003,residential,Tarek Mounir,"81 Gameat El Dowal St, Dokki",30.048413,31.217713
+M-000469,T-0003,residential,Hana Sabry,"59 Shubra St, Dokki",30.045578,31.217908
+M-000470,T-0003,residential,Yasmin Rashad,"90 Shubra St, Dokki",30.045862,31.217950
+M-000471,T-0003,residential,Ahmed Shawky,"10 Nile Corniche, Dokki",30.045992,31.218393
+M-000472,T-0003,residential,Mahmoud Rashad,"81 Makram Ebeid St, Dokki",30.047773,31.218161
+M-000473,T-0003,residential,Yasmin Mansour,"8 El Nozha St, Dokki",30.045855,31.216886
+M-000474,T-0003,residential,Karim Ali,"22 Road 9, Dokki",30.047146,31.218925
+M-000475,T-0003,residential,Hana Zaki,"61 Nile Corniche, Dokki",30.046785,31.217465
+M-000476,T-0003,residential,Amr Hamdy,"54 Road 233, Dokki",30.048112,31.218188
+M-000477,T-0003,residential,Aya Mansour,"19 Nile Corniche, Dokki",30.048237,31.217599
+M-000478,T-0003,residential,Ahmed Ezzat,"95 Shubra St, Dokki",30.046168,31.217957
+M-000479,T-0003,residential,Amr Zaki,"36 Khalafawy Sq, Dokki",30.048092,31.216815
+M-000480,T-0003,residential,Laila Samir,"104 Gameat El Dowal St, Dokki",30.045668,31.218005
+M-000481,T-0003,residential,Salma Hassan,"2 Khalafawy Sq, Dokki",30.048407,31.218410
+M-000482,T-0003,residential,Dina Ali,"29 Makram Ebeid St, Dokki",30.047641,31.216262
+M-000483,T-0003,commercial,Nour Samir,"36 El Merghany St, Dokki",30.046138,31.216419
+M-000484,T-0003,residential,Ahmed Fouad,"71 Road 233, Dokki",30.047207,31.216620
+M-000485,T-0003,residential,Laila Saad,"48 Tahrir St, Dokki",30.045569,31.218570
+M-000486,T-0003,residential,Youssef Saad,"19 El Nozha St, Dokki",30.046143,31.216592
+M-000487,T-0003,residential,Mahmoud Fathy,"68 Road 233, Dokki",30.047738,31.216693
+M-000488,T-0003,residential,Mariam Lotfy,"115 Road 9, Dokki",30.046038,31.216559
+M-000489,T-0003,residential,Hana Lotfy,"16 Mesaha Sq, Dokki",30.046384,31.218786
+M-000490,T-0003,residential,Yasmin Samir,"31 El Merghany St, Dokki",30.046333,31.216496
+M-000491,T-0003,commercial,Laila Saad,"57 El Merghany St, Dokki",30.046278,31.216192
+M-000492,T-0003,residential,Hana Ibrahim,"87 Mesaha Sq, Dokki",30.048649,31.217286
+M-000493,T-0003,residential,Aya Ali,"17 El Nozha St, Dokki",30.045817,31.219212
+M-000494,T-0003,residential,Omar Samir,"28 Abbas El Akkad St, Dokki",30.045868,31.218435
+M-000495,T-0003,residential,Hana Hassan,"28 Mesaha Sq, Dokki",30.047500,31.216379
+M-000496,T-0003,commercial,Youssef Adel,"74 Road 9, Dokki",30.045398,31.217698
+M-000497,T-0003,residential,Yasmin Mounir,"10 Road 9, Dokki",30.046921,31.216604
+M-000498,T-0003,residential,Salma Mansou,"79 Nile Corniche, Dokki",30.045412,31.218242
+M-000499,T-0003,residential,Karim Sabry,"51 Tahrir St, Dokki",30.047279,31.219192
+M-000500,T-0003,residential,Mahmoud Ibrahim,"40 Road 9, Dokki",30.046988,31.217058
+M-000501,T-0003,residential,Omar Nabil,"103 Shubra St, Dokki",30.047335,31.218175
+M-000502,T-0003,residential,Amr Galal,"98 Abbas El Akkad St, Dokki",30.047531,31.219574
+M-000503,T-0003,residential,Hana Samir,"96 Gameat El Dowal St, Dokki",30.046710,31.217415
+M-000504,T-0003,residential,Omar Rashad,"106 Shubra St, Dokki",30.046990,31.216665
+M-000505,T-0003,residential,Youssef Mounir,"28 Gameat El Dowal St, Dokki",30.047827,31.217027
+M-000506,T-0003,residential,Amr Shawky,"102 Gameat El Dowal St, Dokki",30.046900,31.218621
+M-000507,T-0003,residential,Laila Adel,"21 Mesaha Sq, Dokki",30.047780,31.218512
+M-000508,T-0003,residential,Amr Mansour,"40 Road 233, Dokki",30.048499,31.217277
+M-000509,T-0003,residential,Youssef Ali,"67 Shubra St, Dokki",30.047130,31.217973
+M-000510,T-0003,residential,Youssef Ibrahim,"89 Tahrir St, Dokki",30.047535,31.219555
+M-000511,T-0003,residential,Hana Hassan,"69 Road 233, Dokki",30.046579,31.219625
+M-000512,T-0003,residential,Karim Ezzat,"67 Shubra St, Dokki",30.045927,31.217533
+M-000513,T-0003,residential,Mariam Zaki,"45 Khalafawy Sq, Dokki",30.047529,31.217219
+M-000514,T-0003,residential,Hana Nabil,"71 Road 9, Dokki",30.047099,31.216158
+M-000515,T-0003,residential,Salma Fathy,"57 Nile Corniche, Dokki",30.046845,31.217071
+M-000516,T-0003,residential,Salma Zaki,"57 Shubra St, Dokki",30.047499,31.218885
+M-000517,T-0003,residential,Dina Galal,"70 Tahrir St, Dokki",30.045903,31.219352
+M-000518,T-0003,residential,Ahmed Nabil,"72 Makram Ebeid St, Dokki",30.045227,31.218046
+M-000519,T-0003,residential,Nour Adel,"40 Gameat El Dowal St, Dokki",30.047957,31.219226
+M-000520,T-0003,residential,Salma Ezzat,"17 Tahrir St, Dokki",30.046859,31.218912
+M-000521,T-0003,residential,Youssef Ezzat,"36 Mesaha Sq, Dokki",30.046471,31.219375
+M-000522,T-0003,residential,Dina Galal,"49 Road 9, Dokki",30.048060,31.219017
+M-000523,T-0003,residential,Mohamed Nabil,"20 Gameat El Dowal St, Dokki",30.045941,31.217364
+M-000524,T-0003,commercial,Mahmoud Ibrahim,"22 Shubra St, Dokki",30.046605,31.216168
+M-000525,T-0003,residential,Mohamed Kamal,"114 Mesaha Sq, Dokki",30.047175,31.217857
+M-000526,T-0003,residential,Mohamed Nabil,"34 Road 9, Dokki",30.046189,31.217878
+M-000527,T-0003,residential,Farida Ezzat,"88 Gameat El Dowal St, Dokki",30.047269,31.216290
+M-000528,T-0003,residential,Laila Hassan,"16 Abbas El Akkad St, Dokki",30.046997,31.216925
+M-000529,T-0003,commercial,Hana Rashad,"116 El Merghany St, Dokki",30.047298,31.216989
+M-000530,T-0003,residential,Mahmoud Galal,"26 Road 233, Dokki",30.045447,31.218373
+M-000531,T-0003,residential,Hassan Mounir,"47 Khalafawy Sq, Dokki",30.047774,31.215898
+M-000532,T-0003,residential,Mahmoud Zaki,"94 Khalafawy Sq, Dokki",30.047084,31.219313
+M-000533,T-0003,residential,Mahmoud Galal,"24 Khalafawy Sq, Dokki",30.045949,31.219226
+M-000534,T-0003,residential,Salma Ali,"66 Mesaha Sq, Dokki",30.047806,31.219616
+M-000535,T-0003,residential,Omar Samir,"94 Road 233, Dokki",30.046343,31.217924
+M-000536,T-0003,residential,Ahmed Hassan,"3 Shubra St, Dokki",30.046068,31.218639
+M-000537,T-0003,residential,Laila Mounir,"4 Road 233, Dokki",30.047071,31.219066
+M-000538,T-0003,residential,Nour Galal,"94 Shubra St, Dokki",30.047012,31.217178
+M-000539,T-0003,residential,Hana Hassan,"32 El Nozha St, Dokki",30.046395,31.219429
+M-000540,T-0003,residential,Yasmin Hassan,"109 Road 9, Dokki",30.046837,31.219120
+M-000541,T-0003,residential,Rana Samir,"111 Mesaha Sq, Dokki",30.047845,31.218809
+M-000542,T-0003,residential,Mahmoud Nabil,"105 Gameat El Dowal St, Dokki",30.046359,31.218068
+M-000543,T-0003,residential,Hana Sabry,"119 Khalafawy Sq, Dokki",30.046756,31.218601
+M-000544,T-0003,residential,Mariam Saad,"98 Nile Corniche, Dokki",30.045839,31.219215
+M-000545,T-0003,residential,Laila Lotfy,"46 Makram Ebeid St, Dokki",30.047040,31.218203
+M-000546,T-0003,residential,Hassan Shawky,"119 Makram Ebeid St, Dokki",30.047078,31.216766
+M-000547,T-0003,commercial,Farida Samir,"42 Makram Ebeid St, Dokki",30.047887,31.217287
+M-000548,T-0003,residential,Ahmed Ibrahim,"70 Tahrir St, Dokki",30.045746,31.217784
+M-000549,T-0003,residential,Salma Mounir,"1 Abbas El Akkad St, Dokki",30.046148,31.216520
+M-000550,T-0003,commercial,Yasmin Rashad,"115 Makram Ebeid St, Dokki",30.047855,31.216684
+M-000551,T-0003,residential,Karim Kamal,"71 Gameat El Dowal St, Dokki",30.047528,31.217761
+M-000552,T-0003,residential,Ahmed Samir,"113 Abbas El Akkad St, Dokki",30.046334,31.217094
+M-000553,T-0003,residential,Salma Galal,"42 El Merghany St, Dokki",30.048279,31.216547
+M-000554,T-0003,residential,Laila Sabry,"38 El Merghany St, Dokki",30.048213,31.216864
+M-000555,T-0003,residential,Ahmed Sabry,"63 Road 9, Dokki",30.047380,31.216147
+M-000556,T-0003,residential,Omar Rashad,"103 Gameat El Dowal St, Dokki",30.045577,31.218179
+M-000557,T-0003,commercial,Laila Ezzat,"66 Mesaha Sq, Dokki",30.048379,31.218652
+M-000558,T-0003,residential,Hana Nabil,"95 Nile Corniche, Dokki",30.047438,31.217815
+M-000559,T-0003,residential,Nour Hamdy,"26 Shubra St, Dokki",30.045928,31.217945
+M-000560,T-0003,residential,Nour Kamal,"93 Makram Ebeid St, Dokki",30.045685,31.217820
+M-000561,T-0003,commercial,Hassan Shawky,"88 Khalafawy Sq, Dokki",30.046132,31.218430
+M-000562,T-0003,residential,Ahmed Mounir,"107 Road 233, Dokki",30.045502,31.216972
+M-000563,T-0003,residential,Mahmoud Mounir,"7 Gameat El Dowal St, Dokki",30.045822,31.217301
+M-000564,T-0003,residential,Ahmed Mansour,"46 Tahrir St, Dokki",30.047823,31.216207
+M-000565,T-0003,residential,Hassan Shawky,"11 Tahrir St, Dokki",30.048295,31.218976
+M-000566,T-0003,residential,Hassan Ezzat,"48 El Merghany St, Dokki",30.047205,31.219224
+M-000567,T-0003,residential,Ahmed Mounir,"91 Gameat El Dowal St, Dokki",30.047465,31.215855
+M-000568,T-0003,residential,Hana Lotfy,"77 Tahrir St, Dokki",30.047802,31.216464
+M-000569,T-0003,residential,Mahmoud Ali,"90 Khalafawy Sq, Dokki",30.048665,31.217703
+M-000570,T-0003,residential,Tarek Adel,"88 Gameat El Dowal St, Dokki",30.047739,31.216897
+M-000571,T-0003,commercial,Aya Ezzat,"119 Road 233, Dokki",30.047985,31.216829
+M-000572,T-0003,residential,Hassan Lotfy,"105 Nile Corniche, Dokki",30.046490,31.219159
+M-000573,T-0003,commercial,Mohamed Hamdy,"70 Khalafawy Sq, Dokki",30.046531,31.218156
+M-000574,T-0003,residential,Mohamed Zaki,"105 Abbas El Akkad St, Dokki",30.046878,31.219069
+M-000575,T-0003,commercial,Tarek Kamal,"6 Nile Corniche, Dokki",30.045653,31.216533
+M-000576,T-0003,residential,Youssef Kamal,"86 Shubra St, Dokki",30.048332,31.217146
+M-000577,T-0003,residential,Dina Sabry,"63 Tahrir St, Dokki",30.046582,31.218491
+M-000578,T-0003,residential,Karim Nabil,"114 El Merghany St, Dokki",30.046025,31.217341
+M-000579,T-0003,residential,Nour Zaki,"60 El Nozha St, Dokki",30.046780,31.218637
+M-000580,T-0003,residential,Mostafa Hamdy,"22 Khalafawy Sq, Dokki",30.047143,31.218052
+M-000581,T-0003,residential,Laila Sabry,"87 Khalafawy Sq, Dokki",30.047592,31.219650
+M-000582,T-0003,residential,Nour Adel,"114 Road 233, Dokki",30.048132,31.218261
+M-000583,T-0003,residential,Karim Hamdy,"2 Makram Ebeid St, Dokki",30.047954,31.217404
+M-000584,T-0003,residential,Amr Ibrahim,"8 Abbas El Akkad St, Dokki",30.045865,31.218687
+M-000585,T-0003,residential,Hana Ibrahim,"79 Mesaha Sq, Dokki",30.047084,31.217612
+M-000586,T-0003,residential,Farida Kamal,"67 El Nozha St, Dokki",30.046609,31.216770
+M-000587,T-0003,residential,Karim Ali,"66 Gameat El Dowal St, Dokki",30.047545,31.219394
+M-000588,T-0003,residential,Mostafa Galal,"11 Tahrir St, Dokki",30.047653,31.219242
+M-000589,T-0003,residential,Nour Galal,"69 Shubra St, Dokki",30.047684,31.215860
+M-000590,T-0003,residential,Farida Hassan,"68 El Nozha St, Dokki",30.046875,31.219396
+M-000591,T-0003,residential,Tarek Sabry,"102 Abbas El Akkad St, Dokki",30.048070,31.217021
+M-000592,T-0003,residential,Amr Mansour,"47 Abbas El Akkad St, Dokki",30.048007,31.219163
+M-000593,T-0003,residential,Mariam Hamdy,"42 Makram Ebeid St, Dokki",30.046256,31.215990
+M-000594,T-0003,residential,Laila Ezzat,"10 Shubra St, Dokki",30.047609,31.216144
+M-000595,T-0003,commercial,Salma Shawky,"68 Makram Ebeid St, Dokki",30.047170,31.219797
+M-000596,T-0003,residential,Tarek Ibrahim,"78 Khalafawy Sq, Dokki",30.046745,31.219579
+M-000597,T-0003,residential,Yasmin Hassan,"34 Road 9, Dokki",30.048641,31.217338
+M-000598,T-0003,residential,Hana Fouad,"88 Mesaha Sq, Dokki",30.046951,31.218465
+M-000599,T-0003,residential,Aya Galal,"112 Mesaha Sq, Dokki",30.045613,31.218523
+M-000600,T-0003,residential,Mariam Shawky,"21 Road 9, Dokki",30.045918,31.218333
+M-000601,T-0004,residential,Amr Samir,"69 Road 9, Nasr City",30.061311,31.322820
+M-000602,T-0004,residential,Mohamed Hassan,"83 Shubra St, Nasr City",30.061572,31.319616
+M-000603,T-0004,residential,Yasmin Galal,"3 Road 233, Nasr City",30.061579,31.319247
+M-000604,T-0004,residential,Mohamed Adel,"22 Mesaha Sq, Nasr City",30.060048,31.322702
+M-000605,T-0004,residential,Salma Hamdy,"48 Abbas El Akkad St, Nasr City",30.061829,31.320315
+M-000606,T-0004,residential,Yasmin Zaki,"17 El Merghany St, Nasr City",30.061691,31.323007
+M-000607,T-0004,residential,Mohamed Nabil,"43 Road 9, Nasr City",30.062895,31.321323
+M-000608,T-0004,residential,Amr Ali,"18 Shubra St, Nasr City",30.060381,31.320746
+M-000609,T-0004,residential,Karim Samir,"107 Gameat El Dowal St, Nasr City",30.061970,31.321248
+M-000610,T-0004,residential,Farida Adel,"72 Road 9, Nasr City",30.061690,31.321376
+M-000611,T-0004,residential,Farida Hamdy,"40 El Merghany St, Nasr City",30.061751,31.323044
+M-000612,T-0004,residential,Hana Sabry,"93 Khalafawy Sq, Nasr City",30.060086,31.321102
+M-000613,T-0004,residential,Rana Fathy,"3 Abbas El Akkad St, Nasr City",30.061994,31.319356
+M-000614,T-0004,residential,Hassan Mansour,"72 El Merghany St, Nasr City",30.062377,31.322027
+M-000615,T-0004,residential,Farida Hassan,"82 Makram Ebeid St, Nasr City",30.059929,31.322532
+M-000616,T-0004,residential,Amr Fathy,"97 El Nozha St, Nasr City",30.061316,31.319942
+M-000617,T-0004,residential,Omar Lotfy,"27 Shubra St, Nasr City",30.060228,31.322612
+M-000618,T-0004,residential,Omar Lotfy,"71 Mesaha Sq, Nasr City",30.061533,31.321836
+M-000619,T-0004,residential,Farida Lotfy,"92 Abbas El Akkad St, Nasr City",30.061787,31.322734
+M-000620,T-0004,residential,Mostafa Ibrahim,"95 Tahrir St, Nasr City",30.059975,31.322272
+M-000621,T-0004,residential,Hassan Shawky,"21 Tahrir St, Nasr City",30.059620,31.321532
+M-000622,T-0004,residential,Aya Kamal,"117 Tahrir St, Nasr City",30.062392,31.319836
+M-000623,T-0004,residential,Mostafa Mounir,"33 Shubra St, Nasr City",30.061120,31.320963
+M-000624,T-0004,residential,Laila Zaki,"47 Nile Corniche, Nasr City",30.060935,31.320094
+M-000625,T-0004,residential,Hana Galal,"23 Road 9, Nasr City",30.061732,31.321226
+M-000626,T-0004,residential,Amr Ibrahim,"18 Nile Corniche, Nasr City",30.060831,31.321636
+M-000627,T-0004,residential,Salma Fouad,"31 Shubra St, Nasr City",30.060122,31.322249
+M-000628,T-0004,residential,Aya Lotfy,"17 Khalafawy Sq, Nasr City",30.062684,31.320462
+M-000629,T-0004,residential,Amr Samir,"88 Shubra St, Nasr City",30.061378,31.323102
+M-000630,T-0004,residential,Hassan Rashad,"72 Abbas El Akkad St, Nasr City",30.061125,31.319357
+M-000631,T-0004,residential,Salma Mansour,"47 El Merghany St, Nasr City",30.061381,31.319488
+M-000632,T-0004,residential,Nour Mounir,"66 El Merghany St, Nasr City",30.062653,31.322347
+M-000633,T-0004,residential,Youssef Saad,"72 El Nozha St, Nasr City",30.060946,31.321366
+M-000634,T-0004,residential,Aya Galal,"22 Khalafawy Sq, Nasr City",30.061603,31.322233
+M-000635,T-0004,residential,Salma Kamal,"36 Mesaha Sq, Nasr City",30.061898,31.322781
+M-000636,T-0004,residential,Karim Fouad,"105 Shubra St, Nasr City",30.059712,31.321709
+M-000637,T-0004,residential,Mohamed Mansour,"2 Khalafawy Sq, Nasr City",30.061307,31.321410
+M-000638,T-0004,residential,Youssef Nabil,"114 Mesaha Sq, Nasr City",30.061705,31.319846
+M-000639,T-0004,residential,Mariam Mounir,"115 Road 9, Nasr City",30.062575,31.320337
+M-000640,T-0004,residential,Omar Galal,"31 Nile Corniche, Nasr City",30.061438,31.320937
+M-000641,T-0004,residential,Nour Mounir,"39 Tahrir St, Nasr City",30.061222,31.322585
+M-000642,T-0004,residential,Tarek Mounir,"25 Mesaha Sq, Nasr City",30.061080,31.323219
+M-000643,T-0004,residential,Hana Zaki,"67 Khalafawy Sq, Nasr City",30.061293,31.322977
+M-000644,T-0004,residential,Mariam Fouad,"26 Abbas El Akkad St, Nasr City",30.061917,31.322035
+M-000645,T-0004,residential,Nour Ezzat,"95 Shubra St, Nasr City",30.062896,31.320611
+M-000646,T-0004,residential,Aya Hassan,"47 Nile Corniche, Nasr City",30.060470,31.321983
+M-000647,T-0004,residential,Hana Sabry,"116 Road 233, Nasr City",30.061600,31.323171
+M-000648,T-0004,residential,Yasmin Fouad,"102 Road 233, Nasr City",30.061899,31.320342
+M-000649,T-0004,residential,Karim Zaki,"48 Road 233, Nasr City",30.060222,31.322220
+M-000650,T-0004,residential,Hana Samir,"71 Road 9, Nasr City",30.062443,31.321561
+M-000651,T-0004,residential,Hassan Samir,"3 Road 9, Nasr City",30.061833,31.322202
+M-000652,T-0004,residential,Ahmed Hassan,"9 El Merghany St, Nasr City",30.060250,31.319773
+M-000653,T-0004,residential,Mohamed Kamal,"61 Nile Corniche, Nasr City",30.061497,31.320394
+M-000654,T-0004,residential,Nour Kamal,"57 Gameat El Dowal St, Nasr City",30.061464,31.321862
+M-000655,T-0004,residential,Farida Fathy,"48 Nile Corniche, Nasr City",30.062251,31.320672
+M-000656,T-0004,residential,Tarek Fathy,"11 Mesaha Sq, Nasr City",30.062241,31.319857
+M-000657,T-0004,residential,Youssef Shawky,"100 Makram Ebeid St, Nasr City",30.062274,31.319753
+M-000658,T-0004,commercial,Karim Adel,"49 Khalafawy Sq, Nasr City",30.061588,31.323331
+M-000659,T-0004,residential,Hana Sabry,"56 El Merghany St, Nasr City",30.062268,31.321628
+M-000660,T-0004,residential,Omar Ibrahim,"49 Road 9, Nasr City",30.062110,31.320292
+M-000661,T-0004,residential,Omar Shawky,"60 Makram Ebeid St, Nasr City",30.061108,31.321997
+M-000662,T-0004,residential,Farida Saad,"78 Mesaha Sq, Nasr City",30.060336,31.320204
+M-000663,T-0004,residential,Ahmed Mansour,"91 Makram Ebeid St, Nasr City",30.061449,31.319203
+M-000664,T-0004,residential,Farida Shawky,"66 Road 233, Nasr City",30.062380,31.322530
+M-000665,T-0004,residential,Laila Rashad,"20 Road 9, Nasr City",30.061604,31.319701
+M-000666,T-0004,residential,Ahmed Kamal,"105 El Merghany St, Nasr City",30.062381,31.320784
+M-000667,T-0004,residential,Aya Mansour,"34 Makram Ebeid St, Nasr City",30.061104,31.319305
+M-000668,T-0004,residential,Mostafa Saad,"2 Abbas El Akkad St, Nasr City",30.060154,31.321804
+M-000669,T-0004,residential,Hana Fouad,"5 Nile Corniche, Nasr City",30.061808,31.320742
+M-000670,T-0004,residential,Mariam Samir,"93 Road 9, Nasr City",30.060265,31.321059
+M-000671,T-0004,residential,Karim Zaki,"47 Makram Ebeid St, Nasr City",30.061322,31.320736
+M-000672,T-0004,residential,Ahmed Kamal,"3 El Nozha St, Nasr City",30.061684,31.320431
+M-000673,T-0004,residential,Tarek Lotfy,"97 El Merghany St, Nasr City",30.061336,31.320998
+M-000674,T-0004,residential,Yasmin Kamal,"37 El Merghany St, Nasr City",30.061051,31.322635
+M-000675,T-0004,residential,Youssef Fathy,"117 Abbas El Akkad St, Nasr City",30.062395,31.322392
+M-000676,T-0004,residential,Omar Nabil,"105 Shubra St, Nasr City",30.061414,31.322489
+M-000677,T-0004,residential,Aya Hassan,"6 Abbas El Akkad St, Nasr City",30.060170,31.321250
+M-000678,T-0004,residential,Ahmed Mansour,"83 Nile Corniche, Nasr City",30.059575,31.321207
+M-000679,T-0004,residential,Omar Sabry,"72 Road 233, Nasr City",30.059982,31.320380
+M-000680,T-0004,residential,Aya Lotfy,"21 Road 9, Nasr City",30.060290,31.322211
+M-000681,T-0004,residential,Amr Kamal,"41 Road 9, Nasr City",30.061557,31.320196
+M-000682,T-0004,residential,Hassan Saad,"59 Road 233, Nasr City",30.062794,31.320253
+M-000683,T-0004,residential,Mariam Ezzat,"18 El Nozha St, Nasr City",30.061355,31.322282
+M-000684,T-0004,residential,Youssef Ali,"86 Road 233, Nasr City",30.061250,31.320093
+M-000685,T-0004,residential,Mariam Samir,"33 Mesaha Sq, Nasr City",30.060586,31.319493
+M-000686,T-0004,residential,Aya Ezzat,"112 El Merghany St, Nasr City",30.060041,31.321056
+M-000687,T-0004,residential,Farida Samir,"96 Makram Ebeid St, Nasr City",30.061921,31.322934
+M-000688,T-0004,commercial,Laila Ibrahim,"76 Mesaha Sq, Nasr City",30.061725,31.319741
+M-000689,T-0004,residential,Tarek Nabil,"15 Nile Corniche, Nasr City",30.062748,31.320863
+M-000690,T-0004,residential,Laila Rashad,"3 Makram Ebeid St, Nasr City",30.061163,31.320155
+M-000691,T-0004,residential,Tarek Saad,"18 El Nozha St, Nasr City",30.062106,31.320771
+M-000692,T-0004,residential,Aya Zaki,"60 Abbas El Akkad St, Nasr City",30.062354,31.321158
+M-000693,T-0004,residential,Dina Kamal,"93 Road 9, Nasr City",30.060912,31.321931
+M-000694,T-0004,residential,Mahmoud Adel,"19 Road 9, Nasr City",30.060250,31.319791
+M-000695,T-0004,residential,Salma Fathy,"85 Mesaha Sq, Nasr City",30.060392,31.321455
+M-000696,T-0004,residential,Mohamed Sabry,"6 Gameat El Dowal St, Nasr City",30.062681,31.321144
+M-000697,T-0004,residential,Nour Samir,"32 Makram Ebeid St, Nasr City",30.062668,31.322303
+M-000698,T-0004,residential,Mariam Hamdy,"72 El Merghany St, Nasr City",30.059979,31.322237
+M-000699,T-0004,residential,Ahmed Kamal,"99 El Merghany St, Nasr City",30.062182,31.320305
+M-000700,T-0004,residential,Youssef Ali,"93 Road 233, Nasr City",30.061073,31.322676
+M-000701,T-0004,residential,Ahmed Kamal,"64 El Nozha St, Nasr City",30.061759,31.319260
+M-000702,T-0004,residential,Nour Mansour,"5 El Merghany St, Nasr City",30.060242,31.322421
+M-000703,T-0004,residential,Aya Fouad,"35 Tahrir St, Nasr City",30.062949,31.321039
+M-000704,T-0004,residential,Mariam Sabry,"94 Shubra St, Nasr City",30.062609,31.319955
+M-000705,T-0004,residential,Hana Galal,"10 Mesaha Sq, Nasr City",30.060831,31.323024
+M-000706,T-0004,residential,Omar Lotfy,"85 Road 233, Nasr City",30.061435,31.320388
+M-000707,T-0004,residential,Hana Shawky,"84 Road 9, Nasr City",30.060636,31.322607
+M-000708,T-0004,residential,Ahmed Mansour,"90 Road 233, Nasr City",30.060886,31.320864
+M-000709,T-0004,commercial,Dina Rashad,"26 Tahrir St, Nasr City",30.060546,31.319865
+M-000710,T-0004,residential,Ahmed Nabil,"30 Shubra St, Nasr City",30.062180,31.319492
+M-000711,T-0004,residential,Mariam Sabry,"24 Road 233, Nasr City",30.062611,31.321502
+M-000712,T-0004,residential,Hassan Ezzat,"47 Tahrir St, Nasr City",30.061558,31.322618
+M-000713,T-0004,residential,Aya Nabil,"63 Tahrir St, Nasr City",30.061256,31.320892
+M-000714,T-0004,residential,Mostafa Galal,"15 El Merghany St, Nasr City",30.059712,31.320483
+M-000715,T-0004,residential,Mariam Sabry,"68 El Nozha St, Nasr City",30.060759,31.321293
+M-000716,T-0004,residential,Laila Kamal,"29 El Merghany St, Nasr City",30.061680,31.321418
+M-000717,T-0004,residential,Ahmed Galal,"67 Shubra St, Nasr City",30.060820,31.322115
+M-000718,T-0004,residential,Mariam Ibrahim,"37 Khalafawy Sq, Nasr City",30.061642,31.320876
+M-000719,T-0004,residential,Nour Hassan,"114 Nile Corniche, Nasr City",30.062528,31.321545
+M-000720,T-0004,residential,Youssef Adel,"39 Gameat El Dowal St, Nasr City",30.060308,31.322179
+M-000721,T-0004,commercial,Amr Shawky,"104 Nile Corniche, Nasr City",30.062284,31.320882
+M-000722,T-0004,residential,Rana Samir,"21 Khalafawy Sq, Nasr City",30.061723,31.321422
+M-000723,T-0004,residential,Yasmin Galal,"11 Road 233, Nasr City",30.061336,31.320580
+M-000724,T-0004,residential,Yasmin Nabil,"23 El Merghany St, Nasr City",30.061283,31.322562
+M-000725,T-0004,residential,Hana Nabil,"50 El Nozha St, Nasr City",30.061633,31.320895
+M-000726,T-0004,residential,Amr Rashad,"108 Abbas El Akkad St, Nasr City",30.061300,31.319539
+M-000727,T-0004,residential,Youssef Hassan,"21 Shubra St, Nasr City",30.061954,31.320652
+M-000728,T-0004,residential,Rana Hamdy,"94 El Nozha St, Nasr City",30.061547,31.322391
+M-000729,T-0004,residential,Mahmoud Samir,"83 El Merghany St, Nasr City",30.060229,31.321020
+M-000730,T-0004,residential,Youssef Mounir,"41 Nile Corniche, Nasr City",30.061549,31.319956
+M-000731,T-0004,residential,Laila Zaki,"41 Shubra St, Nasr City",30.061339,31.321359
+M-000732,T-0004,residential,Hassan Ali,"113 Gameat El Dowal St, Nasr City",30.061410,31.321965
+M-000733,T-0004,residential,Omar Ali,"86 Gameat El Dowal St, Nasr City",30.062984,31.321603
+M-000734,T-0004,residential,Aya Ali,"29 Khalafawy Sq, Nasr City",30.061398,31.321256
+M-000735,T-0004,residential,Hana Mounir,"109 Makram Ebeid St, Nasr City",30.061018,31.319840
+M-000736,T-0004,residential,Karim Zaki,"49 Abbas El Akkad St, Nasr City",30.060507,31.320181
+M-000737,T-0004,residential,Dina Kamal,"10 Makram Ebeid St, Nasr City",30.061298,31.320076
+M-000738,T-0004,residential,Hassan Fath,"97 Shubra St, Nasr City",30.060178,31.321005
+M-000739,T-0004,residential,Hassan Ezzat,"104 Nile Corniche, Nasr City",30.059764,31.321549
+M-000740,T-0004,commercial,Hana Fathy,"53 Nile Corniche, Nasr City",30.059768,31.321869
+M-000741,T-0004,residential,Nour Hamdy,"84 Shubra St, Nasr City",30.060753,31.320456
+M-000742,T-0004,residential,Mohamed Lotfy,"28 Shubra St, Nasr City",30.061643,31.322401
+M-000743,T-0004,residential,Omar Nabil,"102 Gameat El Dowal St, Nasr City",30.062013,31.320613
+M-000744,T-0004,residential,Hassan Mansour,"44 Shubra St, Nasr City",30.061809,31.319942
+M-000745,T-0004,residential,Laila Fathy,"32 Mesaha Sq, Nasr City",30.060466,31.322667
+M-000746,T-0004,residential,Youssef Samir,"60 El Merghany St, Nasr City",30.060580,31.320804
+M-000747,T-0004,residential,Dina Mounir,"32 Road 9, Nasr City",30.061992,31.322201
+M-000748,T-0004,residential,Amr Zaki,"74 El Nozha St, Nasr City",30.063047,31.320928
+M-000749,T-0004,residential,Laila Sabry,"89 El Nozha St, Nasr City",30.061662,31.321012
+M-000750,T-0004,residential,Hana Mansour,"49 Makram Ebeid St, Nasr City",30.062414,31.320610
+M-000751,T-0004,residential,Farida Fathy,"94 Makram Ebeid St, Nasr City",30.060587,31.322800
+M-000752,T-0004,residential,Tarek Hamdy,"52 Mesaha Sq, Nasr City",30.061677,31.321979
+M-000753,T-0004,residential,Ahmed Mansour,"116 Makram Ebeid St, Nasr City",30.061430,31.321714
+M-000754,T-0004,residential,Dina Saad,"32 Khalafawy Sq, Nasr City",30.061902,31.321689
+M-000755,T-0004,commercial,Rana Kamal,"84 El Nozha St, Nasr City",30.062594,31.322640
+M-000756,T-0004,residential,Dina Rashad,"64 Gameat El Dowal St, Nasr City",30.061493,31.321361
+M-000757,T-0004,residential,Mostafa Hamdy,"113 Gameat El Dowal St, Nasr City",30.062116,31.321217
+M-000758,T-0004,residential,Mohamed Fathy,"27 Nile Corniche, Nasr City",30.061621,31.321440
+M-000759,T-0004,residential,Dina Ezzat,"24 Abbas El Akkad St, Nasr City",30.061740,31.321786
+M-000760,T-0004,residential,Ahmed Samir,"104 Road 9, Nasr City",30.061998,31.319827
+M-000761,T-0004,residential,Mohamed Nabil,"108 Tahrir St, Nasr City",30.060562,31.320781
+M-000762,T-0004,residential,Farida Saad,"89 Mesaha Sq, Nasr City",30.061544,31.319725
+M-000763,T-0004,residential,Salma Sabry,"57 Abbas El Akkad St, Nasr City",30.060396,31.320104
+M-000764,T-0004,commercial,Dina Samir,"49 Makram Ebeid St, Nasr City",30.062562,31.319983
+M-000765,T-0004,residential,Hana Fouad,"80 Tahrir St, Nasr City",30.061257,31.321165
+M-000766,T-0004,residential,Mahmoud Fathy,"89 Nile Corniche, Nasr City",30.059690,31.321009
+M-000767,T-0004,residential,Yasmin Zaki,"33 El Merghany St, Nasr City",30.061008,31.319684
+M-000768,T-0004,residential,Nour Lotfy,"1 El Nozha St, Nasr City",30.060650,31.321547
+M-000769,T-0004,residential,Hana Adel,"9 El Nozha St, Nasr City",30.060439,31.322779
+M-000770,T-0004,residential,Youssef Galal,"41 Gameat El Dowal St, Nasr City",30.059706,31.321663
+M-000771,T-0004,residential,Farida Hassan,"82 Mesaha Sq, Nasr City",30.061776,31.322192
+M-000772,T-0004,residential,Aya Ibrahim,"53 Road 9, Nasr City",30.061835,31.319367
+M-000773,T-0004,residential,Dina Shawky,"74 Makram Ebeid St, Nasr City",30.061255,31.322673
+M-000774,T-0004,residential,Hana Hamdy,"56 El Merghany St, Nasr City",30.062133,31.322602
+M-000775,T-0004,residential,Salma Nabil,"30 El Merghany St, Nasr City",30.061378,31.323337
+M-000776,T-0004,residential,Rana Shawky,"90 Khalafawy Sq, Nasr City",30.061929,31.320228
+M-000777,T-0004,residential,Nour Adel,"87 El Merghany St, Nasr City",30.060553,31.322916
+M-000778,T-0004,residential,Ahmed Shawky,"115 Abbas El Akkad St, Nasr City",30.060940,31.320195
+M-000779,T-0004,residential,Karim Zaki,"99 El Merghany St, Nasr City",30.062334,31.319817
+M-000780,T-0004,residential,Tarek Mounir,"46 Gameat El Dowal St, Nasr City",30.062569,31.322031
+M-000781,T-0004,residential,Hana Fouad,"84 El Merghany St, Nasr City",30.061416,31.320312
+M-000782,T-0004,commercial,Yasmin Rashad,"42 El Nozha St, Nasr City",30.060926,31.322525
+M-000783,T-0004,residential,Salma Shawky,"104 Abbas El Akkad St, Nasr City",30.061548,31.322420
+M-000784,T-0004,residential,Laila Adel,"73 Tahrir St, Nasr City",30.061148,31.320736
+M-000785,T-0004,residential,Hassan Nabil,"100 Abbas El Akkad St, Nasr City",30.061599,31.321082
+M-000786,T-0004,residential,Mariam Mounir,"34 Tahrir St, Nasr City",30.061041,31.322450
+M-000787,T-0004,residential,Salma Fathy,"2 Road 233, Nasr City",30.061111,31.321155
+M-000788,T-0004,residential,Laila Lotfy,"17 Nile Corniche, Nasr City",30.061155,31.322094
+M-000789,T-0004,residential,Hassan Ibrahim,"64 Road 233, Nasr City",30.059892,31.320683
+M-000790,T-0004,residential,Hassan Sabry,"115 El Nozha St, Nasr City",30.060245,31.320063
+M-000791,T-0004,residential,Mariam Saad,"75 Nile Corniche, Nasr City",30.060147,31.320133
+M-000792,T-0004,residential,Mostafa Mounir,"97 Khalafawy Sq, Nasr City",30.060614,31.320455
+M-000793,T-0004,commercial,Hassan Zaki,"56 El Nozha St, Nasr City",30.062459,31.322746
+M-000794,T-0004,residential,Tarek Ali,"115 Khalafawy Sq, Nasr City",30.060855,31.319773
+M-000795,T-0004,residential,Hassan Zaki,"112 Makram Ebeid St, Nasr City",30.061046,31.320618
+M-000796,T-0004,residential,Karim Rashad,"26 Road 233, Nasr City",30.061056,31.320556
+M-000797,T-0004,residential,Hassan Adel,"103 Road 9, Nasr City",30.062676,31.322051
+M-000798,T-0004,residential,Youssef Nabil,"3 Khalafawy Sq, Nasr City",30.060630,31.321558
+M-000799,T-0004,residential,Youssef Hamdy,"71 Road 9, Nasr City",30.060259,31.322076
+M-000800,T-0004,residential,Karim Hamdy,"53 Gameat El Dowal St, Nasr City",30.062870,31.322347
+M-000801,T-0005,commercial,Karim Adel,"36 Abbas El Akkad St, Nasr City",30.046880,31.329139
+M-000802,T-0005,residential,Laila Ezzat,"112 Abbas El Akkad St, Nasr City",30.046644,31.329106
+M-000803,T-0005,residential,Hassan Nabil,"79 Shubra St, Nasr City",30.046780,31.326940
+M-000804,T-0005,commercial,Yasmin Ali,"17 Khalafawy Sq, Nasr City",30.046972,31.330593
+M-000805,T-0005,commercial,Amr Shawky,"17 Shubra St, Nasr City",30.047168,31.328360
+M-000806,T-0005,residential,Hana Ibrahim,"14 Makram Ebeid St, Nasr City",30.045225,31.328450
+M-000807,T-0005,residential,Ahmed Nabil,"37 Tahrir St, Nasr City",30.046971,31.327063
+M-000808,T-0005,residential,Mahmoud Mansour,"9 Makram Ebeid St, Nasr City",30.045562,31.329270
+M-000809,T-0005,residential,Laila Nabil,"32 Road 233, Nasr City",30.045441,31.329018
+M-000810,T-0005,residential,Amr Fathy,"92 Road 9, Nasr City",30.046173,31.328267
+M-000811,T-0005,residential,Ahmed Hamdy,"104 Gameat El Dowal St, Nasr City",30.047224,31.328805
+M-000812,T-0005,residential,Youssef Mansour,"94 Nile Corniche, Nasr City",30.045474,31.329092
+M-000813,T-0005,commercial,Hana Sabry,"60 Khalafawy Sq, Nasr City",30.045899,31.328807
+M-000814,T-0005,residential,Mostafa Shawky,"83 Tahrir St, Nasr City",30.045685,31.327997
+M-000815,T-0005,residential,Laila Fouad,"113 Mesaha Sq, Nasr City",30.046731,31.327114
+M-000816,T-0005,residential,Ahmed Nabil,"7 Road 233, Nasr City",30.047079,31.329131
+M-000817,T-0005,residential,Aya Lotfy,"108 El Nozha St, Nasr City",30.045478,31.328851
+M-000818,T-0005,residential,Karim Saad,"87 Shubra St, Nasr City",30.046000,31.329125
+M-000819,T-0005,residential,Youssef Fathy,"46 Makram Ebeid St, Nasr City",30.048343,31.328091
+M-000820,T-0005,residential,Yasmin Sabry,"54 Mesaha Sq, Nasr City",30.045954,31.329052
+M-000821,T-0005,residential,Ahmed Hamdy,"53 Makram Ebeid St, Nasr City",30.045481,31.329330
+M-000822,T-0005,residential,Aya Rashad,"19 Khalafawy Sq, Nasr City",30.048162,31.328645
+M-000823,T-0005,residential,Dina Hassan,"28 Gameat El Dowal St, Nasr City",30.045781,31.329409
+M-000824,T-0005,residential,Hana Ibrahim,"36 Gameat El Dowal St, Nasr City",30.047484,31.330561
+M-000825,T-0005,residential,Dina Fouad,"1 El Nozha St, Nasr City",30.047177,31.330742
+M-000826,T-0005,residential,Mohamed Hamdy,"60 Mesaha Sq, Nasr City",30.047980,31.329890
+M-000827,T-0005,residential,Yasmin Fouad,"57 Gameat El Dowal St, Nasr City",30.048428,31.329016
+M-000828,T-0005,residential,Karim Hassan,"40 Mesaha Sq, Nasr City",30.045236,31.329864
+M-000829,T-0005,residential,Laila Saad,"21 Makram Ebeid St, Nasr City",30.047001,31.327673
+M-000830,T-0005,commercial,Rana Shawky,"116 Gameat El Dowal St, Nasr City",30.046726,31.327526
+M-000831,T-0005,residential,Hana Zaki,"81 El Merghany St, Nasr City",30.047057,31.329056
+M-000832,T-0005,residential,Dina Hassan,"57 Abbas El Akkad St, Nasr City",30.045407,31.328220
+M-000833,T-0005,residential,Farida Hassan,"86 El Merghany St, Nasr City",30.047595,31.330245
+M-000834,T-0005,residential,Farida Nabil,"45 Tahrir St, Nasr City",30.047932,31.328529
+M-000835,T-0005,residential,Rana Ali,"26 Makram Ebeid St, Nasr City",30.047134,31.329563
+M-000836,T-0005,residential,Amr Mansour,"81 Gameat El Dowal St, Nasr City",30.045672,31.327609
+M-000837,T-0005,residential,Farida Ibrahim,"92 Makram Ebeid St, Nasr City",30.046339,31.330169
+M-000838,T-0005,commercial,Ahmed Rashad,"78 Nile Corniche, Nasr City",30.045924,31.327675
+M-000839,T-0005,residential,Ahmed Lotfy,"68 El Merghany St, Nasr City",30.046268,31.329430
+M-000840,T-0005,residential,Ahmed Mounir,"1 El Nozha St, Nasr City",30.046967,31.326975
+M-000841,T-0005,residential,Nour Galal,"76 Shubra St, Nasr City",30.046952,31.329881
+M-000842,T-0005,residential,Mahmoud Nabil,"74 El Merghany St, Nasr City",30.047528,31.328491
+M-000843,T-0005,residential,Amr Hassan,"50 Tahrir St, Nasr City",30.045192,31.329007
+M-000844,T-0005,residential,Mahmoud Adel,"30 Gameat El Dowal St, Nasr City",30.046926,31.327025
+M-000845,T-0005,residential,Yasmin Hamdy,"117 Road 233, Nasr City",30.047346,31.328234
+M-000846,T-0005,residential,Mohamed Ali,"45 El Nozha St, Nasr City",30.048094,31.328999
+M-000847,T-0005,residential,Hana Samir,"33 El Merghany St, Nasr City",30.047111,31.330766
+M-000848,T-0005,residential,Aya Nabil,"85 El Nozha St, Nasr City",30.046473,31.330905
+M-000849,T-0005,residential,Tarek Fathy,"58 Road 9, Nasr City",30.046857,31.330289
+M-000850,T-0005,residential,Youssef Hamdy,"67 Nile Corniche, Nasr City",30.046756,31.330499
+M-000851,T-0005,residential,Amr Zaki,"78 Abbas El Akkad St, Nasr City",30.045513,31.328123
+M-000852,T-0005,residential,Mohamed Mansour,"44 El Nozha St, Nasr City",30.048398,31.328937
+M-000853,T-0005,residential,Amr Galal,"19 El Merghany St, Nasr City",30.048450,31.328897
+M-000854,T-0005,residential,Hassan Ibrahim,"20 El Merghany St, Nasr City",30.045521,31.328747
+M-000855,T-0005,residential,Hana Ibrahim,"112 Tahrir St, Nasr City",30.046486,31.328494
+M-000856,T-0005,residential,Laila Samir,"61 Road 9, Nasr City",30.047951,31.327486
+M-000857,T-0005,residential,Aya Zaki,"50 Tahrir St, Nasr City",30.048388,31.328218
+M-000858,T-0005,residential,Amr Shawky,"39 El Merghany St, Nasr City",30.047320,31.330789
+M-000859,T-0005,residential,Mostafa Ali,"86 Shubra St, Nasr City",30.046301,31.328892
+M-000860,T-0005,commercial,Aya Mounir,"109 El Merghany St, Nasr City",30.047265,31.328194
+M-000861,T-0005,residential,Dina Adel,"92 Khalafawy Sq, Nasr City",30.046351,31.330702
+M-000862,T-0005,residential,Tarek Samir,"64 Road 9, Nasr City",30.046606,31.329126
+M-000863,T-0005,commercial,Yasmin Rashad,"57 Makram Ebeid St, Nasr City",30.048634,31.328824
+M-000864,T-0005,residential,Aya Galal,"104 Road 233, Nasr City",30.047961,31.328890
+M-000865,T-0005,residential,Tarek Zaki,"102 Abbas El Akkad St, Nasr City",30.048129,31.328029
+M-000866,T-0005,residential,Nour Mounir,"47 Khalafawy Sq, Nasr City",30.047369,31.327141
+M-000867,T-0005,residential,Tarek Saad,"115 Khalafawy Sq, Nasr City",30.046725,31.330306
+M-000868,T-0005,residential,Tarek Rashad,"99 Road 9, Nasr City",30.046422,31.330069
+M-000869,T-0005,residential,Farida Sabry,"101 Khalafawy Sq, Nasr City",30.045517,31.328535
+M-000870,T-0005,commercial,Ahmed Mansour,"7 Tahrir St, Nasr City",30.045587,31.328419
+M-000871,T-0005,residential,Mostafa Samir,"16 Mesaha Sq, Nasr City",30.045710,31.328963
+M-000872,T-0005,residential,Laila Mounir,"36 Makram Ebeid St, Nasr City",30.045948,31.327789
+M-000873,T-0005,residential,Mostafa Ibrahim,"91 Road 9, Nasr City",30.045400,31.330104
+M-000874,T-0005,residential,Hana Kamal,"10 Abbas El Akkad St, Nasr City",30.046854,31.327588
+M-000875,T-0005,residential,Hassan Ezzat,"10 El Merghany St, Nasr City",30.046460,31.329807
+M-000876,T-0005,residential,Laila Galal,"4 Khalafawy Sq, Nasr City",30.046324,31.330125
+M-000877,T-0005,commercial,Aya Mounir,"23 Road 233, Nasr City",30.047648,31.329945
+M-000878,T-0005,residential,Yasmin Ezzat,"110 Road 233, Nasr City",30.047105,31.329707
+M-000879,T-0005,residential,Nour Ali,"86 Tahrir St, Nasr City",30.047289,31.328332
+M-000880,T-0005,residential,Rana Galal,"86 Makram Ebeid St, Nasr City",30.045455,31.329579
+M-000881,T-0005,residential,Karim Kamal,"35 Khalafawy Sq, Nasr City",30.047006,31.330209
+M-000882,T-0005,residential,Mariam Zaki,"75 Khalafawy Sq, Nasr City",30.046963,31.326982
+M-000883,T-0005,residential,Hana Samir,"93 Mesaha Sq, Nasr City",30.046022,31.328668
+M-000884,T-0005,residential,Dina Sabry,"64 Tahrir St, Nasr City",30.047421,31.329096
+M-000885,T-0005,residential,Laila Shawky,"102 Khalafawy Sq, Nasr City",30.046227,31.330659
+M-000886,T-0005,residential,Mohamed Sabry,"68 Abbas El Akkad St, Nasr City",30.047608,31.330759
+M-000887,T-0005,residential,Mohamed Saad,"39 El Merghany St, Nasr City",30.046331,31.328099
+M-000888,T-0005,residential,Youssef Saad,"77 Khalafawy Sq, Nasr City",30.046734,31.329932
+M-000889,T-0005,residential,Yasmin Kamal,"113 Khalafawy Sq, Nasr City",30.047572,31.329365
+M-000890,T-0005,residential,Omar Hassan,"99 El Merghany St, Nasr City",30.048084,31.329517
+M-000891,T-0005,residential,Omar Zaki,"60 Road 9, Nasr City",30.045787,31.328310
+M-000892,T-0005,residential,Aya Nabil,"72 Khalafawy Sq, Nasr City",30.047769,31.329153
+M-000893,T-0005,residential,Mohamed Shawky,"117 Shubra St, Nasr City",30.047083,31.328650
+M-000894,T-0005,residential,Aya Ali,"90 Nile Corniche, Nasr City",30.047560,31.330204
+M-000895,T-0005,residential,Aya Saad,"60 El Merghany St, Nasr City",30.045478,31.327746
+M-000896,T-0005,residential,Youssef Rashad,"34 Gameat El Dowal St, Nasr City",30.045493,31.329581
+M-000897,T-0005,residential,Mohamed Adel,"108 Khalafawy Sq, Nasr City",30.045674,31.329523
+M-000898,T-0005,commercial,Mahmoud Fathy,"117 Tahrir St, Nasr City",30.047399,31.329311
+M-000899,T-0005,residential,Aya Fathy,"9 Makram Ebeid St, Nasr City",30.047155,31.328022
+M-000900,T-0005,residential,Ahmed Fathy,"4 Khalafawy Sq, Nasr City",30.047625,31.328307
+M-000901,T-0005,residential,Mohamed Rashad,"14 Mesaha Sq, Nasr City",30.048431,31.329135
+M-000902,T-0005,residential,Farida Saad,"47 Shubra St, Nasr City",30.047591,31.330763
+M-000903,T-0005,residential,Yasmin Samir,"20 Road 9, Nasr City",30.048267,31.327889
+M-000904,T-0005,residential,Mohamed Zaki,"105 Abbas El Akkad St, Nasr City",30.045160,31.328378
+M-000905,T-0005,residential,Omar Mansour,"109 El Merghany St, Nasr City",30.047909,31.330676
+M-000906,T-0005,residential,Nour Shawky,"22 Gameat El Dowal St, Nasr City",30.047374,31.330950
+M-000907,T-0005,residential,Mahmoud Nabil,"99 Nile Corniche, Nasr City",30.046602,31.328539
+M-000908,T-0005,residential,Yasmin Galal,"17 Road 9, Nasr City",30.046755,31.328247
+M-000909,T-0005,commercial,Ahmed Kamal,"94 Tahrir St, Nasr City",30.046055,31.328338
+M-000910,T-0005,residential,Dina Nabil,"44 Nile Corniche, Nasr City",30.048141,31.328561
+M-000911,T-0005,residential,Hassan Galal,"5 Nile Corniche, Nasr City",30.046300,31.329033
+M-000912,T-0005,commercial,Farida Zaki,"51 El Nozha St, Nasr City",30.046346,31.330826
+M-000913,T-0005,residential,Hana Rashad,"98 El Nozha St, Nasr City",30.045461,31.329242
+M-000914,T-0005,residential,Youssef Ezzat,"112 El Merghany St, Nasr City",30.046017,31.330191
+M-000915,T-0005,commercial,Ahmed Ali,"15 Tahrir St, Nasr City",30.046977,31.329843
+M-000916,T-0005,residential,Salma Sabry,"100 Mesaha Sq, Nasr City",30.047729,31.329307
+M-000917,T-0005,residential,Rana Zaki,"35 Mesaha Sq, Nasr City",30.046429,31.329676
+M-000918,T-0005,residential,Tarek Samir,"56 Nile Corniche, Nasr City",30.046461,31.327147
+M-000919,T-0005,residential,Hassan Nabil,"13 Tahrir St, Nasr City",30.048227,31.329193
+M-000920,T-0005,residential,Hassan Ibrahim,"116 El Merghany St, Nasr City",30.045428,31.329674
+M-000921,T-0005,residential,Karim Galal,"95 Road 9, Nasr City",30.046255,31.328120
+M-000922,T-0005,residential,Yasmin Ibrahim,"77 Tahrir St, Nasr City",30.046017,31.328200
+M-000923,T-0005,residential,Youssef Nabil,"87 Gameat El Dowal St, Nasr City",30.047051,31.327705
+M-000924,T-0005,residential,Youssef Zaki,"104 Tahrir St, Nasr City",30.047443,31.327327
+M-000925,T-0005,residential,Dina Hamdy,"18 Nile Corniche, Nasr City",30.046483,31.327235
+M-000926,T-0005,residential,Amr Saad,"30 Khalafawy Sq, Nasr City",30.047514,31.329578
+M-000927,T-0005,residential,Mahmoud Sabry,"5 Khalafawy Sq, Nasr City",30.045135,31.329324
+M-000928,T-0005,residential,Hana Mansour,"59 Mesaha Sq, Nasr City",30.046362,31.328573
+M-000929,T-0005,residential,Mariam Sabry,"59 Nile Corniche, Nasr City",30.046908,31.330976
+M-000930,T-0005,commercial,Rana Ali,"4 El Nozha St, Nasr City",30.047410,31.329183
+M-000931,T-0005,residential,Tarek Hassan,"79 Road 9, Nasr City",30.047013,31.330064
+M-000932,T-0005,residential,Tarek Rashad,"2 Shubra St, Nasr City",30.045270,31.329544
+M-000933,T-0005,residential,Omar Saad,"95 Road 9, Nasr City",30.046206,31.329463
+M-000934,T-0005,residential,Amr Mansour,"84 Makram Ebeid St, Nasr City",30.047375,31.330207
+M-000935,T-0005,residential,Yasmin Hassan,"97 Makram Ebeid St, Nasr City",30.047404,31.327765
+M-000936,T-0005,residential,Omar Lotfy,"15 El Merghany St, Nasr City",30.047656,31.328546
+M-000937,T-0005,residential,Hana Ezzat,"104 El Nozha St, Nasr City",30.047317,31.330680
+M-000938,T-0005,residential,Rana Sabry,"66 Abbas El Akkad St, Nasr City",30.048361,31.328188
+M-000939,T-0005,residential,Nour Mounir,"103 Abbas El Akkad St, Nasr City",30.048533,31.329227
+M-000940,T-0005,residential,Hassan Galal,"83 Gameat El Dowal St, Nasr City",30.047794,31.328459
+M-000941,T-0005,residential,Tarek Kamal,"79 El Merghany St, Nasr City",30.048112,31.328559
+M-000942,T-0005,residential,Hana Samir,"4 Nile Corniche, Nasr City",30.047755,31.329088
+M-000943,T-0005,residential,Mahmoud Ezzat,"83 Makram Ebeid St, Nasr City",30.046933,31.327984
+M-000944,T-0005,residential,Amr Galal,"54 Makram Ebeid St, Nasr City",30.047570,31.328854
+M-000945,T-0005,residential,Tarek Mounir,"102 Makram Ebeid St, Nasr City",30.048309,31.327886
+M-000946,T-0005,residential,Salma Lotfy,"82 El Merghany St, Nasr City",30.048528,31.328651
+M-000947,T-0005,residential,Aya Fathy,"9 Khalafawy Sq, Nasr City",30.045352,31.328439
+M-000948,T-0005,commercial,Rana Galal,"106 El Merghany St, Nasr City",30.048002,31.329714
+M-000949,T-0005,residential,Hana Galal,"8 Makram Ebeid St, Nasr City",30.047600,31.327830
+M-000950,T-0005,residential,Rana Zaki,"36 Gameat El Dowal St, Nasr City",30.045871,31.328017
+M-000951,T-0005,residential,Amr Ezzat,"26 El Merghany St, Nasr City",30.045870,31.328004
+M-000952,T-0005,residential,Mostafa Shawky,"116 Road 9, Nasr City",30.045830,31.329690
+M-000953,T-0005,residential,Rana Galal,"19 Tahrir St, Nasr City",30.046272,31.328680
+M-000954,T-0005,residential,Youssef Ali,"101 El Merghany St, Nasr City",30.047224,31.329615
+M-000955,T-0005,residential,Karim Ezzat,"27 El Nozha St, Nasr City",30.046747,31.326985
+M-000956,T-0005,residential,Nour Ali,"78 Gameat El Dowal St, Nasr City",30.047974,31.329665
+M-000957,T-0005,residential,Mahmoud Adel,"11 Abbas El Akkad St, Nasr City",30.046638,31.326996
+M-000958,T-0005,residential,Karim Ibrahim,"47 Mesaha Sq, Nasr City",30.047284,31.328326
+M-000959,T-0005,residential,Amr Fouad,"75 Gameat El Dowal St, Nasr City",30.045540,31.329276
+M-000960,T-0005,residential,Mostafa Fathy,"85 El Merghany St, Nasr City",30.046041,31.328951
+M-000961,T-0005,residential,Hana Mounir,"104 Tahrir St, Nasr City",30.046515,31.329976
+M-000962,T-0005,residential,Farida Shawky,"98 Mesaha Sq, Nasr City",30.047167,31.328941
+M-000963,T-0005,residential,Ahmed Ezzat,"62 Road 233, Nasr City",30.046795,31.328296
+M-000964,T-0005,residential,Farida Nabil,"37 El Nozha St, Nasr City",30.045688,31.330469
+M-000965,T-0005,residential,Hassan Hassan,"32 Abbas El Akkad St, Nasr City",30.047325,31.330059
+M-000966,T-0005,residential,Rana Lotfy,"119 Road 9, Nasr City",30.047127,31.330601
+M-000967,T-0005,residential,Ahmed Hamdy,"73 Shubra St, Nasr City",30.045664,31.329328
+M-000968,T-0005,residential,Hassan Mansour,"109 Gameat El Dowal St, Nasr City",30.047926,31.328545
+M-000969,T-0005,residential,Omar Sabry,"52 Road 233, Nasr City",30.046730,31.327501
+M-000970,T-0005,residential,Hassan Sabry,"58 Road 9, Nasr City",30.047029,31.329887
+M-000971,T-0005,residential,Mahmoud Shawky,"99 Road 9, Nasr City",30.047997,31.327413
+M-000972,T-0005,residential,Karim Mounir,"87 Mesaha Sq, Nasr City",30.045686,31.330312
+M-000973,T-0005,residential,Mariam Hamdy,"24 Tahrir St, Nasr City",30.047785,31.327573
+M-000974,T-0005,residential,Mohamed Zaki,"63 Nile Corniche, Nasr City",30.046924,31.330430
+M-000975,T-0005,commercial,Mahmoud Samir,"26 Tahrir St, Nasr City",30.046343,31.328458
+M-000976,T-0005,residential,Omar Hassan,"91 Khalafawy Sq, Nasr City",30.048407,31.328123
+M-000977,T-0005,commercial,Mariam Fathy,"4 Abbas El Akkad St, Nasr City",30.046808,31.330222
+M-000978,T-0005,residential,Nour Lotfy,"99 Shubra St, Nasr City",30.046719,31.328574
+M-000979,T-0005,residential,Mostafa Hamdy,"111 Gameat El Dowal St, Nasr City",30.047910,31.328912
+M-000980,T-0005,residential,Youssef Adel,"3 Shubra St, Nasr City",30.047798,31.330512
+M-000981,T-0005,residential,Mariam Rashad,"76 Shubra St, Nasr City",30.048067,31.329874
+M-000982,T-0005,residential,Hana Saad,"10 Makram Ebeid St, Nasr City",30.046145,31.327409
+M-000983,T-0005,residential,Mariam Nabil,"43 El Nozha St, Nasr City",30.046003,31.330574
+M-000984,T-0005,residential,Youssef Galal,"41 El Nozha St, Nasr City",30.047607,31.329423
+M-000985,T-0005,residential,Mahmoud Kamal,"62 Road 233, Nasr City",30.045151,31.329318
+M-000986,T-0005,residential,Hassan Fathy,"110 Tahrir St, Nasr City",30.046888,31.327634
+M-000987,T-0005,residential,Aya Fouad,"55 Nile Corniche, Nasr City",30.046545,31.330630
+M-000988,T-0005,residential,Yasmin Samir,"48 Abbas El Akkad St, Nasr City",30.046816,31.329095
+M-000989,T-0005,residential,Dina Hamdy,"12 Gameat El Dowal St, Nasr City",30.047875,31.327301
+M-000990,T-0005,residential,Karim Mounir,"106 Gameat El Dowal St, Nasr City",30.045914,31.328871
+M-000991,T-0005,residential,Dina Shawky,"38 Tahrir St, Nasr City",30.047107,31.328577
+M-000992,T-0005,residential,Ahmed Shawky,"56 Shubra St, Nasr City",30.045710,31.329474
+M-000993,T-0005,residential,Hana Samir,"11 El Nozha St, Nasr City",30.047479,31.328792
+M-000994,T-0005,residential,Mahmoud Shawky,"35 Abbas El Akkad St, Nasr City",30.046450,31.328351
+M-000995,T-0005,residential,Rana Adel,"66 Khalafawy Sq, Nasr City",30.047929,31.330109
+M-000996,T-0005,residential,Amr Hassan,"108 Mesaha Sq, Nasr City",30.047707,31.328148
+M-000997,T-0005,residential,Yasmin Ezzat,"40 Abbas El Akkad St, Nasr City",30.045136,31.329144
+M-000998,T-0005,residential,Aya Kamal,"67 Gameat El Dowal St, Nasr City",30.047500,31.329922
+M-000999,T-0005,commercial,Ahmed Fouad,"105 Shubra St, Nasr City",30.047741,31.330460
+M-001000,T-0005,residential,Laila Ali,"43 Mesaha Sq, Nasr City",30.046393,31.327705
